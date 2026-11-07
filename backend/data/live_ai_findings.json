@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-11-07T16:15:15.777315+00:00",
+  "snapshot_id": "snap-2026-11-05T17:47:47-4006fb",
+  "model": "deterministic-rules-engine (snapshot-verified)",
+  "is_live_llm": false,
+  "algorithm_version": "v4.5-empirical-inflection-rubric",
+  "compliance_guardrail": "PUBLIC_INFORMATION_ONLY_NO_MNPI",
+  "gross_equities_usd": 571799.89,
+  "net_nav_usd": 552321.02,
+  "margin_debit_usd": -19494.75,
+  "live_research_and_earnings_highlights": [
+    {
+      "event_id": "mrvl_lite_115b_merger_2026_11_03",
+      "date": "2026-11-04",
+      "fetched_at": "2026-11-05T14:00:00Z",
+      "expires_at": "2027-02-15",
+      "category": "M&A / CORPORATE ACTION",
+      "headline": "Marvell Agrees to Acquire Lumentum in Historic $115B All-Stock Deal; Both Stocks Plunge (~$91B Value Wiped Out)",
+      "source": "Marvell Investor Relations / SEC Form 8-K",
+      "related_tickers": [
+        "MRVL",
+        "LITE",
+        "COHR",
+        "AVGO"
+      ],
+      "impact_type": "THESIS_VIOLATION_OR_MA_ALERT",
+      "severity": "CRITICAL",
+      "summary": "Marvell (MRVL) announced a $115B all-stock acquisition of Lumentum (LITE) to combine optical DSPs with InP lasers. Wall Street slashed ratings (BofA downgraded MRVL to Neutral PT $225 from $400; TD Cowen cut PT in half) citing equity dilution, while LITE plunged >17% as shareholders convert into diluted MRVL stock and optical OEMs (Ciena, Cisco) evaluate independent laser supply.",
+      "portfolio_action": "Supply-chain read-across: Lumentum ceases to be a standalone optical pure-play once merged into Marvell, leaving Coherent (COHR) as the largest independent US vertically integrated 6-inch InP laser and Optical Circuit Switch (OCS) supplier.",
+      "link": "https://investor.marvell.com/news-events/press-releases"
+    },
+    {
+      "event_id": "cohr_q1_fy27_20b_photonlink_2026_11_04",
+      "date": "2026-11-05",
+      "fetched_at": "2026-11-05T14:00:00Z",
+      "expires_at": "2027-02-15",
+      "category": "EARNINGS BEAT & $20B HYPERSCALER LTA",
+      "headline": "Coherent (COHR) Reports Record $2.37B Q1 FY27 Revenue (+56% YoY), $2.09 EPS Beat & Signs $20B PhotonLink Hyperscaler LTA",
+      "source": "Coherent Corp. Q1 FY2027 Form 10-Q & Press Release",
+      "related_tickers": [
+        "COHR",
+        "CRDO",
+        "LITE",
+        "TSEM",
+        "AXTI"
+      ],
+      "impact_type": "THESIS_REINFORCEMENT",
+      "severity": "CRITICAL",
+      "summary": "Coherent posted Q1 FY2027 revenue of $2.37B (+50-56% YoY) and adjusted EPS of $2.09 (beating consensus by $0.07), signed a $20B PhotonLink Long-Term Agreement (LTA) with a tier-1 hyperscaler, and raised FY27 revenue growth guidance above 60% (projecting $3.0B+ quarter by Q4 FY27 and $4.0B quarter in FY28).",
+      "portfolio_action": "Supply-chain read-across: Confirms multi-year hyperscaler demand for 6-inch InP CW/EML lasers, 800G/1.6T optical transceivers, and Optical Circuit Switches (OCS), with positive upstream read-across to InP substrates (AXTI) and MOCVD reactors (AIIXY).",
+      "link": "https://www.coherent.com/news/press-releases"
+    },
+    {
+      "event_id": "semianalysis_spacex_gdpx_backlash_2026_11_03",
+      "date": "2026-11-04",
+      "fetched_at": "2026-11-05T14:00:00Z",
+      "expires_at": "2027-02-15",
+      "category": "SEMIANALYSIS DEEP RESEARCH",
+      "headline": "SemiAnalysis: (1) SpaceX 13GW AI Cloud in 18 Months, (2) GDPx Benchmark Shows Best AI Agent at 12%, (3) Texas Datacenter Permit Risk & ASML Hybrid Bonding Tool",
+      "source": "SemiAnalysis (Dylan Patel / Maya Barkin / Max Kan)",
+      "related_tickers": [
+        "ASML",
+        "TSM",
+        "NVDA",
+        "AVGO",
+        "BESIY",
+        "CIFR",
+        "CORZ"
+      ],
+      "impact_type": "ARCHITECTURE_SHIFT",
+      "severity": "HIGH",
+      "summary": "Latest SemiAnalysis research highlights: (1) SpaceX/xAI building 13GW of AI compute in 18 months (+50GW global DC buildout in 2027, moving the shortage back to chips); (2) GDPx real-world benchmark where top frontier AI scores just 12% (0% in finance/legal), proving massive test-time compute scaling ahead; (3) Bipartisan 2028 Texas datacenter permit freeze risk; and (4) Patent/roadmap evidence that ASML is building its own Hybrid Bonding tool.",
+      "portfolio_action": "Supply-chain read-across: Reinforces wafer fab equipment and packaging demand (ASML, TSM, DSCSY, LSRCY, ASMIY, ONTO, ATEYY), highlights ERCOT regulatory risk for debt-funded Texas data-center builds (CIFR), and introduces long-term competitive watch on BESIY from ASML.",
+      "link": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will"
+    },
+    {
+      "event_id": "alab_q3_2026_scorpio_beat_2026_11_04",
+      "date": "2026-11-04",
+      "fetched_at": "2026-11-05T14:00:00Z",
+      "expires_at": "2027-02-15",
+      "category": "EARNINGS / GUIDANCE BEAT",
+      "headline": "Astera Labs (ALAB) Q3 Revenue Jumps 154% YoY to Record $584.9M; Guides Q4 to $730M-$750M as Scorpio X-Series Passes $1B Annualized",
+      "source": "Astera Labs Q3 2026 Earnings Release",
+      "related_tickers": [
+        "ALAB",
+        "CRDO",
+        "AVGO",
+        "SITM"
+      ],
+      "impact_type": "THESIS_REINFORCEMENT",
+      "severity": "HIGH",
+      "summary": "Astera Labs doubled Q3 revenue to $584.9M (+154% YoY) and guided Q4 to $730M-$750M as Scorpio X-Series smart fabric switches surpassed $1B annualized run-rate and Aries 7 debuted. Meanwhile, Credo (CRDO) secured OCP approval for two optical telemetry standards and expanded its Oracle AI interconnect deployment.",
+      "portfolio_action": "Supply-chain read-across: Confirms accelerating rack-level scale-up connectivity demand across Active Electrical Cables (CRDO), PCIe/UALink fabric switches (ALAB), and precision silicon MEMS reference clocks (SITM).",
+      "link": "https://investors.asteralabs.com/news-releases"
+    },
+    {
+      "event_id": "klac_asmiy_ateyy_q3_2026_beats",
+      "date": "2026-11-02",
+      "fetched_at": "2026-11-05T14:00:00Z",
+      "expires_at": "2027-02-15",
+      "category": "WFE MONOPOLY EARNINGS BEATS",
+      "headline": "KLA (Rev +29% YoY, $4.7B Q2 Guide), ASM International (\u20ac1.16B Record Q3 Rev on 2nm GAA ALD) & Advantest (Record HBM4/SoC Test Outlook) Beat Estimates",
+      "source": "KLA / ASM International / Advantest Earnings Filings",
+      "related_tickers": [
+        "KLAC",
+        "ASMIY",
+        "ATEYY",
+        "TSM",
+        "KKSIY"
+      ],
+      "impact_type": "THESIS_REINFORCEMENT",
+      "severity": "HIGH",
+      "summary": "Leading WFE suppliers reported Q3 beats: KLA (KLAC) grew revenue +29% YoY with $936M in quarterly buybacks and guided Q2 to $4.7B +/- $200M; ASM International (ASMIY) hit record \u20ac1.16B Q3 revenue on N2 2nm Gate-All-Around ALD orders; and Advantest (ATEYY) raised full-year AI SoC & HBM4 tester guidance.",
+      "portfolio_action": "Supply-chain read-across: Confirms N2 2nm GAA Atomic Layer Deposition (ASMIY, KKSIY), process control metrology (KLAC), and HBM4 burn-in test (ATEYY) capital intensity expansion.",
+      "link": "https://ir.kla.com/news-releases"
+    }
+  ],
+  "headline_summary": "Following the $33,029.23 sale of MRVL, the portfolio holds $571,799.89 Gross Equities across 22 positions ($552,321.02 Net NAV after -$19,494.75 Fidelity Margin ...2854, 12.3% Debt/MV) with 84.0% in 17 #1 AI supply-chain leaders.",
+  "concentration_convictions": [
+    "COHR ($21,107, Score 95/100): $2.37B Q1 FY27 (+56% YoY), $20B PhotonLink LTA, 0.34x PEG.",
+    "ONTO ($32,241, Score 99/100) & CRDO ($34,737, Score 98/100): 78% CoWoS metrology (0.41x PEG) & 82% AEC (0.32x PEG).",
+    "DSCSY ($48,981, Score 89/100) & LSRCY ($41,587, Score 89/100): 80\u2013100% HBM4 wafer thinning & EUV mask inspection leaders."
+  ],
+  "divest_and_upgrade_actions": [
+    "Exit off-thesis robotics FANUY ($20,144) + YASKY ($17,332) + HSYDF ($12,815) in Roth ...5830 -> Scale #1 COHR & buy #1 BESIY.",
+    "Exit CIFR ($15,817 in Schwab PCRA ...0726, Score 23/100, non-compute power shell) -> Rotate tax-free into #1 VRT & #1 SKHY.",
+    "Sell #2 CDNS ($25,580, +650 ST P&L) in Margin ...2854 -> Retires -$19,495 margin debit (0.0% Debt/MV); pair ST gains with -$11,385 losses."
+  ],
+  "missing_monopoly_alerts": [
+    "AVGO (0.31x PEG, Score 92/100) & NVDA (0.3x PEG, Score 89/100): #1 Custom XPU/Tomahawk-6 and Merchant GPU rack leaders.",
+    "BESIY (0.58x PEG, Score 91/100) & FORM (0.29x PEG, Score 97/100): #1 Cu-Cu Hybrid Bonding and HBM4 MEMS probe cards."
+  ],
+  "bear_case_premortem": "Risk Pre-Mortem: At 0.54 real 1Y weekly correlation, 22 holdings behave like 1.78 independent bets (62.2% Non-USD FX, 47.3% OTC ADRs, 6.9% OTC Ordinaries). Margin ...2854 sits at 12.31% Debt/MV (-59.0% buffer to 30% cap); selling CDNS retires -$19,495 debit completely."
+}

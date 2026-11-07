@@ -1,0 +1,70 @@
+{
+  "as_of": "2026-11-05T09:00:00-08:00",
+  "source_of_truth": "Live logged-in Charles Schwab (PCRA Trust ...726) and Fidelity (Investment Margin ...2854 + Roth IRA ...5830) positions synced 2026-11-05 (post-MRVL sale)",
+  "units_note": "'weight_units' = exact live USD market value per position. Gross Equities Total = $571,799.89 across 22 positions (after selling 212.393 sh MRVL for $33,029.23, reducing Fidelity Margin Debit from -$52,523.98 to -$19,494.75); Net Portfolio NAV = $552,321.02 (after -$19,494.75 Fidelity Margin Debit + $15.88 cash).",
+  "summary": {
+    "gross_equities_usd": 571799.89,
+    "margin_debit_usd": -19494.75,
+    "prior_margin_debit_usd": -52523.98,
+    "mrvl_sale_proceeds_applied_to_margin_usd": 33029.23,
+    "realized_st_gains_ytd_usd": 12111.23,
+    "cash_usd": 15.88,
+    "net_nav_usd": 552321.02,
+    "total_cost_basis_usd": 658440.45,
+    "active_positions_count": 22
+  },
+  "accounts": {
+    "Brokerage_Family": {
+      "account_id": "Fidelity Investment Margin ...2854",
+      "mandate": "Taxable fortress compounders & #1 AI compute monopolies; concentrated conviction in critical bottlenecks (MRVL sold Nov 2026 -> reduced margin debit to -$19,494.75)",
+      "equities_value_usd": 158407.23,
+      "margin_debit_usd": -19494.75,
+      "net_account_value_usd": 138912.48,
+      "cost_basis_usd": 161610.49,
+      "positions": [
+        {"ticker": "SNPS",  "name": "Synopsys",                 "shares": 56.306,  "price": 463.635, "weight_units": 26105.43, "cost_basis": 24999.86, "gain_loss_pct": 4.42,   "day_change_pct": 0.16,  "home": "SNPS",    "theme": "EDA duopoly + Ansys multiphysics"},
+        {"ticker": "CDNS",  "name": "Cadence Design Systems",   "shares": 77.371,  "price": 330.62,  "weight_units": 25580.40, "cost_basis": 24930.62, "gain_loss_pct": 2.60,   "day_change_pct": 2.12,  "home": "CDNS",    "theme": "EDA duopoly + Palladium emulation"},
+        {"ticker": "TSM",   "name": "Taiwan Semiconductor",     "shares": 60.794,  "price": 394.12,  "weight_units": 23960.13, "cost_basis": 26449.90, "gain_loss_pct": -9.42,  "day_change_pct": -2.64, "home": "2330.TW", "theme": "Leading-edge N2 foundry + CoWoS-L monopoly"},
+        {"ticker": "ATEYY", "name": "Advantest",                "shares": 100.0,   "price": 215.12,  "weight_units": 21512.00, "cost_basis": 25431.00, "gain_loss_pct": -15.42, "day_change_pct": -3.82, "home": "6857.T",  "theme": "V93000 AI SoC & HBM4 test monopoly"},
+        {"ticker": "ASML",  "name": "ASML Holding",             "shares": 14.382,  "price": 1489.50, "weight_units": 21421.98, "cost_basis": 25024.68, "gain_loss_pct": -14.40, "day_change_pct": -4.04, "home": "ASML.AS", "theme": "100% EUV / High-NA lithography monopoly"},
+        {"ticker": "TELWY", "name": "Tokyo Electron",           "shares": 700.0,   "price": 30.22,   "weight_units": 21154.00, "cost_basis": 14728.00, "gain_loss_pct": 43.63,  "day_change_pct": -3.30, "home": "8035.T",  "theme": "100% EUV coater/developer + HAR cryogenic etch"},
+        {"ticker": "KLAC",  "name": "KLA Corp",                 "shares": 125.653, "price": 148.61,  "weight_units": 18673.29, "cost_basis": 20046.43, "gain_loss_pct": -6.85,  "day_change_pct": -4.86, "home": "KLAC",    "theme": "56% global optical wafer inspection & metrology"}
+      ]
+    },
+    "Roth_Schwab": {
+      "account_id": "Charles Schwab PCRA Trust ...726",
+      "mandate": "Tax-free aggressive multi-bagger engine (3x-10x); #1 critical bottleneck monopolies & gigawatt powered shells",
+      "equities_value_usd": 231991.16,
+      "cash_usd": 15.69,
+      "net_account_value_usd": 232006.85,
+      "cost_basis_usd": 284714.64,
+      "positions": [
+        {"ticker": "DSCSY", "name": "Disco Corporation",        "shares": 1657.0,  "price": 29.56,   "weight_units": 48980.92, "cost_basis": 68644.40, "gain_loss_pct": -28.65, "day_change_pct": -5.29, "home": "6146.T",  "theme": "75-80% monopoly in HBM4/CoWoS wafer dicing & grinding"},
+        {"ticker": "LSRCY", "name": "Lasertec",                 "shares": 855.0,   "price": 48.64,   "weight_units": 41587.20, "cost_basis": 45047.28, "gain_loss_pct": -7.68,  "day_change_pct": -3.68, "home": "6920.T",  "theme": "100% monopoly in Actinic EUV & High-NA mask inspection"},
+        {"ticker": "ASMIY", "name": "ASM International",        "shares": 52.0,    "price": 767.24,  "weight_units": 39896.48, "cost_basis": 48566.46, "gain_loss_pct": -17.85, "day_change_pct": -4.54, "home": "ASM.AS",  "theme": ">55% monopoly in ALD & SiGe epitaxy for 2nm GAA"},
+        {"ticker": "VACNY", "name": "VAT Group",                "shares": 500.0,   "price": 66.4288, "weight_units": 33214.40, "cost_basis": 39326.91, "gain_loss_pct": -15.54, "day_change_pct": -3.82, "home": "VACN.SW", "theme": "75% global monopoly in high-vacuum EUV/ALD valves"},
+        {"ticker": "ONTO",  "name": "Onto Innovation",          "shares": 175.0,   "price": 184.236, "weight_units": 32241.30, "cost_basis": 34825.00, "gain_loss_pct": -7.42,  "day_change_pct": -8.97, "home": "ONTO",    "theme": "Dragonfly G3 3D metrology standard for HBM4/CoWoS-L"},
+        {"ticker": "CORZ",  "name": "Core Scientific",          "shares": 1573.0,  "price": 12.8758, "weight_units": 20253.63, "cost_basis": 22468.51, "gain_loss_pct": -9.86,  "day_change_pct": -9.58, "home": "CORZ",    "theme": "1.3GW+ energized US AI HPC powered shells"},
+        {"ticker": "CIFR",  "name": "Cipher Digital",           "shares": 2458.0,  "price": 6.435,   "weight_units": 15817.23, "cost_basis": 25836.08, "gain_loss_pct": -38.78, "day_change_pct": -20.75,"home": "CIFR",    "theme": "2.5GW+ ERCOT Texas energized interconnects for AI"}
+      ]
+    },
+    "Roth_Fidelity": {
+      "account_id": "Fidelity Roth IRA ...5830",
+      "mandate": "Tax-free aggressive multi-bagger engine (3x-10x); interconnects/optics, materials choke points, neocloud, physical AI",
+      "equities_value_usd": 181401.50,
+      "cash_usd": 0.19,
+      "net_account_value_usd": 181401.69,
+      "cost_basis_usd": 212115.32,
+      "positions": [
+        {"ticker": "CRDO",  "name": "Credo Technology",         "shares": 257.234, "price": 135.04,  "weight_units": 34736.87, "cost_basis": 39999.89, "gain_loss_pct": -13.16, "day_change_pct": -10.52,"home": "CRDO",    "theme": "75%+ monopoly in 800G/1.6T AEC rack interconnects"},
+        {"ticker": "MRUWY", "name": "Maruwa",                   "shares": 2131.0,  "price": 12.59,   "weight_units": 26829.29, "cost_basis": 33473.92, "gain_loss_pct": -19.86, "day_change_pct": 0.07,  "home": "5344.T",  "theme": ">60% global share in ultra-pure AlN ceramic substrates"},
+        {"ticker": "NBCLF", "name": "Nitto Boseki",             "shares": 1610.0,  "price": 16.65,   "weight_units": 26806.50, "cost_basis": 40907.82, "gain_loss_pct": -34.48, "day_change_pct": -6.97, "home": "3110.T",  "theme": ">80% monopoly in Low-Dk/NE-Glass for ABF substrates"},
+        {"ticker": "NBIS",  "name": "Nebius Group",             "shares": 153.405, "price": 141.00,  "weight_units": 21630.10, "cost_basis": 17535.03, "gain_loss_pct": 23.35,  "day_change_pct": -7.02, "home": "NBIS",    "theme": "Full-stack sovereign AI neocloud (GB200/GB300)"},
+        {"ticker": "COHR",  "name": "Coherent",                 "shares": 110.118, "price": 191.68,  "weight_units": 21107.41, "cost_basis": 23222.77, "gain_loss_pct": -9.11,  "day_change_pct": -7.62, "home": "COHR",    "theme": "#1 independent 6-inch InP lasers, 1.6T transceivers & OCS ($20B PhotonLink LTA)"},
+        {"ticker": "FANUY", "name": "FANUC",                    "shares": 1117.0,  "price": 18.034,  "weight_units": 20143.97, "cost_basis": 21665.33, "gain_loss_pct": -7.03,  "day_change_pct": 1.82,  "home": "6954.T",  "theme": "#1 global CNC & industrial robotics installed base"},
+        {"ticker": "YASKY", "name": "Yaskawa Electric",         "shares": 351.0,   "price": 49.38,   "weight_units": 17332.38, "cost_basis": 20977.09, "gain_loss_pct": -17.38, "day_change_pct": 0.25,  "home": "6506.T",  "theme": "AC servo drives & MOTOMAN Next AI controllers"},
+        {"ticker": "HSYDF", "name": "Harmonic Drive Systems",   "shares": 411.0,   "price": 31.18,   "weight_units": 12814.98, "cost_basis": 14333.47, "gain_loss_pct": -10.60, "day_change_pct": -5.41, "home": "6324.T",  "theme": "#1 zero-backlash strain-wave gears for humanoid joints"}
+      ]
+    }
+  }
+}

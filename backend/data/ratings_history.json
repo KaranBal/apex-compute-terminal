@@ -1,0 +1,819 @@
+{
+  "sessions": {
+    "2026-11-03": {
+      "as_of_date": "2026-11-03",
+      "scores": {
+        "MRVL": {
+          "bottleneck_score": 51,
+          "daily_rating_score": 5.1,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 155.51
+        },
+        "SNPS": {
+          "bottleneck_score": 84,
+          "daily_rating_score": 8.4,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 463.635
+        },
+        "CDNS": {
+          "bottleneck_score": 48,
+          "daily_rating_score": 4.8,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 330.62
+        },
+        "TSM": {
+          "bottleneck_score": 96,
+          "daily_rating_score": 9.6,
+          "rating": "STRONG BUY",
+          "us_price": 394.12
+        },
+        "ATEYY": {
+          "bottleneck_score": 79,
+          "daily_rating_score": 7.9,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 215.12
+        },
+        "ASML": {
+          "bottleneck_score": 94,
+          "daily_rating_score": 9.4,
+          "rating": "STRONG BUY",
+          "us_price": 1489.5
+        },
+        "TELWY": {
+          "bottleneck_score": 83,
+          "daily_rating_score": 8.3,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 30.22
+        },
+        "KLAC": {
+          "bottleneck_score": 80,
+          "daily_rating_score": 8.0,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 148.61
+        },
+        "DSCSY": {
+          "bottleneck_score": 92,
+          "daily_rating_score": 9.2,
+          "rating": "STRONG BUY",
+          "us_price": 29.56
+        },
+        "LSRCY": {
+          "bottleneck_score": 87,
+          "daily_rating_score": 8.7,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 48.64
+        },
+        "ASMIY": {
+          "bottleneck_score": 92,
+          "daily_rating_score": 9.2,
+          "rating": "STRONG BUY",
+          "us_price": 767.24
+        },
+        "VACNY": {
+          "bottleneck_score": 86,
+          "daily_rating_score": 8.6,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 66.4288
+        },
+        "ONTO": {
+          "bottleneck_score": 89,
+          "daily_rating_score": 8.9,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 184.236
+        },
+        "CORZ": {
+          "bottleneck_score": 76,
+          "daily_rating_score": 7.6,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 12.8758
+        },
+        "CIFR": {
+          "bottleneck_score": 43,
+          "daily_rating_score": 4.3,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 6.435
+        },
+        "CRDO": {
+          "bottleneck_score": 97,
+          "daily_rating_score": 9.7,
+          "rating": "STRONG BUY",
+          "us_price": 135.04
+        },
+        "MRUWY": {
+          "bottleneck_score": 89,
+          "daily_rating_score": 8.9,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 12.59
+        },
+        "NBCLF": {
+          "bottleneck_score": 90,
+          "daily_rating_score": 9.0,
+          "rating": "STRONG BUY",
+          "us_price": 16.65
+        },
+        "NBIS": {
+          "bottleneck_score": 84,
+          "daily_rating_score": 8.4,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 141.0
+        },
+        "COHR": {
+          "bottleneck_score": 86,
+          "daily_rating_score": 8.6,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 191.68
+        },
+        "FANUY": {
+          "bottleneck_score": 35,
+          "daily_rating_score": 3.5,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 18.034
+        },
+        "YASKY": {
+          "bottleneck_score": 42,
+          "daily_rating_score": 4.2,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 49.38
+        },
+        "HSYDF": {
+          "bottleneck_score": 81,
+          "daily_rating_score": 8.1,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 31.18
+        },
+        "NVDA": {
+          "bottleneck_score": 95,
+          "daily_rating_score": 9.5,
+          "rating": "STRONG BUY",
+          "us_price": 206.69
+        },
+        "AVGO": {
+          "bottleneck_score": 93,
+          "daily_rating_score": 9.3,
+          "rating": "STRONG BUY",
+          "us_price": 332.13
+        },
+        "MU": {
+          "bottleneck_score": 77,
+          "daily_rating_score": 7.7,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 855.1
+        },
+        "LITE": {
+          "bottleneck_score": 92,
+          "daily_rating_score": 9.2,
+          "rating": "STRONG BUY",
+          "us_price": 680.16
+        },
+        "BESIY": {
+          "bottleneck_score": 94,
+          "daily_rating_score": 9.4,
+          "rating": "STRONG BUY",
+          "us_price": 171.25
+        },
+        "ENTG": {
+          "bottleneck_score": 85,
+          "daily_rating_score": 8.5,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 118.4
+        },
+        "VRT": {
+          "bottleneck_score": 82,
+          "daily_rating_score": 8.2,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 235.97
+        },
+        "GEV": {
+          "bottleneck_score": 57,
+          "daily_rating_score": 5.7,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 918.2
+        },
+        "CEG": {
+          "bottleneck_score": 56,
+          "daily_rating_score": 5.6,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 263.4
+        },
+        "FORM": {
+          "bottleneck_score": 88,
+          "daily_rating_score": 8.8,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 96.79
+        },
+        "ALAB": {
+          "bottleneck_score": 68,
+          "daily_rating_score": 6.8,
+          "rating": "VALUATION WATCH",
+          "us_price": 233.62
+        },
+        "ANET": {
+          "bottleneck_score": 59,
+          "daily_rating_score": 5.9,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 169.91
+        },
+        "TER": {
+          "bottleneck_score": 65,
+          "daily_rating_score": 6.5,
+          "rating": "VALUATION WATCH",
+          "us_price": 269.35
+        },
+        "GOOG": {
+          "bottleneck_score": 81,
+          "daily_rating_score": 8.1,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 278.27
+        }
+      }
+    },
+    "2026-11-04": {
+      "as_of_date": "2026-11-04",
+      "updated_at": "2026-11-05T04:44:50.144733+00:00",
+      "scores": {
+        "MRVL": {
+          "bottleneck_score": 51,
+          "daily_rating_score": 5.1,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 155.51
+        },
+        "SNPS": {
+          "bottleneck_score": 84,
+          "daily_rating_score": 8.4,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 463.635
+        },
+        "CDNS": {
+          "bottleneck_score": 48,
+          "daily_rating_score": 4.8,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 330.62
+        },
+        "TSM": {
+          "bottleneck_score": 96,
+          "daily_rating_score": 9.6,
+          "rating": "STRONG BUY",
+          "us_price": 394.12
+        },
+        "ATEYY": {
+          "bottleneck_score": 79,
+          "daily_rating_score": 7.9,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 215.12
+        },
+        "ASML": {
+          "bottleneck_score": 94,
+          "daily_rating_score": 9.4,
+          "rating": "STRONG BUY",
+          "us_price": 1489.5
+        },
+        "TELWY": {
+          "bottleneck_score": 83,
+          "daily_rating_score": 8.3,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 30.22
+        },
+        "KLAC": {
+          "bottleneck_score": 80,
+          "daily_rating_score": 8.0,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 148.61
+        },
+        "DSCSY": {
+          "bottleneck_score": 92,
+          "daily_rating_score": 9.2,
+          "rating": "STRONG BUY",
+          "us_price": 29.56
+        },
+        "LSRCY": {
+          "bottleneck_score": 87,
+          "daily_rating_score": 8.7,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 48.64
+        },
+        "ASMIY": {
+          "bottleneck_score": 92,
+          "daily_rating_score": 9.2,
+          "rating": "STRONG BUY",
+          "us_price": 767.24
+        },
+        "VACNY": {
+          "bottleneck_score": 86,
+          "daily_rating_score": 8.6,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 66.4288
+        },
+        "ONTO": {
+          "bottleneck_score": 96,
+          "daily_rating_score": 9.6,
+          "rating": "STRONG BUY",
+          "us_price": 184.236
+        },
+        "CORZ": {
+          "bottleneck_score": 76,
+          "daily_rating_score": 7.6,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 12.8758
+        },
+        "CIFR": {
+          "bottleneck_score": 43,
+          "daily_rating_score": 4.3,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 6.435
+        },
+        "CRDO": {
+          "bottleneck_score": 97,
+          "daily_rating_score": 9.7,
+          "rating": "STRONG BUY",
+          "us_price": 135.04
+        },
+        "MRUWY": {
+          "bottleneck_score": 89,
+          "daily_rating_score": 8.9,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 12.59
+        },
+        "NBCLF": {
+          "bottleneck_score": 90,
+          "daily_rating_score": 9.0,
+          "rating": "STRONG BUY",
+          "us_price": 16.65
+        },
+        "NBIS": {
+          "bottleneck_score": 83,
+          "daily_rating_score": 8.3,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 141.0
+        },
+        "COHR": {
+          "bottleneck_score": 86,
+          "daily_rating_score": 8.6,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 191.68
+        },
+        "FANUY": {
+          "bottleneck_score": 35,
+          "daily_rating_score": 3.5,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 18.034
+        },
+        "YASKY": {
+          "bottleneck_score": 42,
+          "daily_rating_score": 4.2,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 49.38
+        },
+        "HSYDF": {
+          "bottleneck_score": 81,
+          "daily_rating_score": 8.1,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 31.18
+        },
+        "NVDA": {
+          "bottleneck_score": 95,
+          "daily_rating_score": 9.5,
+          "rating": "STRONG BUY",
+          "us_price": 206.69
+        },
+        "AVGO": {
+          "bottleneck_score": 93,
+          "daily_rating_score": 9.3,
+          "rating": "STRONG BUY",
+          "us_price": 332.13
+        },
+        "MU": {
+          "bottleneck_score": 77,
+          "daily_rating_score": 7.7,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 855.1
+        },
+        "LITE": {
+          "bottleneck_score": 92,
+          "daily_rating_score": 9.2,
+          "rating": "STRONG BUY",
+          "us_price": 680.16
+        },
+        "BESIY": {
+          "bottleneck_score": 94,
+          "daily_rating_score": 9.4,
+          "rating": "STRONG BUY",
+          "us_price": 171.25
+        },
+        "ENTG": {
+          "bottleneck_score": 85,
+          "daily_rating_score": 8.5,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 118.4
+        },
+        "VRT": {
+          "bottleneck_score": 82,
+          "daily_rating_score": 8.2,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 235.97
+        },
+        "GEV": {
+          "bottleneck_score": 57,
+          "daily_rating_score": 5.7,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 918.2
+        },
+        "CEG": {
+          "bottleneck_score": 56,
+          "daily_rating_score": 5.6,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 263.4
+        },
+        "FORM": {
+          "bottleneck_score": 88,
+          "daily_rating_score": 8.8,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 96.79
+        },
+        "ALAB": {
+          "bottleneck_score": 68,
+          "daily_rating_score": 6.8,
+          "rating": "VALUATION WATCH",
+          "us_price": 233.62
+        },
+        "ANET": {
+          "bottleneck_score": 59,
+          "daily_rating_score": 5.9,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 169.91
+        },
+        "TER": {
+          "bottleneck_score": 65,
+          "daily_rating_score": 6.5,
+          "rating": "VALUATION WATCH",
+          "us_price": 269.35
+        },
+        "GOOG": {
+          "bottleneck_score": 81,
+          "daily_rating_score": 8.1,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 278.27
+        },
+        "MPWR": {
+          "bottleneck_score": 83,
+          "daily_rating_score": 8.3,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 768.5
+        },
+        "ETN": {
+          "bottleneck_score": 50,
+          "daily_rating_score": 5.0,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 353.08
+        },
+        "CAMT": {
+          "bottleneck_score": 55,
+          "daily_rating_score": 5.5,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 101.46
+        }
+      }
+    },
+    "2026-11-05": {
+      "as_of_date": "2026-11-05",
+      "updated_at": "2026-11-07T16:14:57.264467+00:00",
+      "scores": {
+        "MRVL": {
+          "bottleneck_score": 57,
+          "daily_rating_score": 5.7,
+          "rating": "BEST-IN-CLASS \u00b7 CYCLE / VALUATION WATCH",
+          "us_price": 133.55
+        },
+        "SNPS": {
+          "bottleneck_score": 87,
+          "daily_rating_score": 8.7,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 463.635
+        },
+        "CDNS": {
+          "bottleneck_score": 46,
+          "daily_rating_score": 4.6,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 330.62
+        },
+        "TSM": {
+          "bottleneck_score": 88,
+          "daily_rating_score": 8.8,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 394.12
+        },
+        "ATEYY": {
+          "bottleneck_score": 85,
+          "daily_rating_score": 8.5,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 215.12
+        },
+        "ASML": {
+          "bottleneck_score": 92,
+          "daily_rating_score": 9.2,
+          "rating": "STRONG BUY",
+          "us_price": 1489.5
+        },
+        "TELWY": {
+          "bottleneck_score": 87,
+          "daily_rating_score": 8.7,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 30.22
+        },
+        "KLAC": {
+          "bottleneck_score": 82,
+          "daily_rating_score": 8.2,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 148.61
+        },
+        "DSCSY": {
+          "bottleneck_score": 89,
+          "daily_rating_score": 8.9,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 29.56
+        },
+        "LSRCY": {
+          "bottleneck_score": 89,
+          "daily_rating_score": 8.9,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 48.64
+        },
+        "ASMIY": {
+          "bottleneck_score": 88,
+          "daily_rating_score": 8.8,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 767.24
+        },
+        "VACNY": {
+          "bottleneck_score": 90,
+          "daily_rating_score": 9.0,
+          "rating": "STRONG BUY",
+          "us_price": 66.4288
+        },
+        "ONTO": {
+          "bottleneck_score": 99,
+          "daily_rating_score": 9.9,
+          "rating": "STRONG BUY",
+          "us_price": 184.236
+        },
+        "CORZ": {
+          "bottleneck_score": 56,
+          "daily_rating_score": 5.6,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 12.8758
+        },
+        "CIFR": {
+          "bottleneck_score": 23,
+          "daily_rating_score": 2.3,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 6.435
+        },
+        "CRDO": {
+          "bottleneck_score": 98,
+          "daily_rating_score": 9.8,
+          "rating": "STRONG BUY",
+          "us_price": 135.04
+        },
+        "MRUWY": {
+          "bottleneck_score": 81,
+          "daily_rating_score": 8.1,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 12.59
+        },
+        "NBCLF": {
+          "bottleneck_score": 88,
+          "daily_rating_score": 8.8,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 16.65
+        },
+        "NBIS": {
+          "bottleneck_score": 58,
+          "daily_rating_score": 5.8,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 141.0
+        },
+        "COHR": {
+          "bottleneck_score": 95,
+          "daily_rating_score": 9.5,
+          "rating": "STRONG BUY",
+          "us_price": 191.68
+        },
+        "FANUY": {
+          "bottleneck_score": 19,
+          "daily_rating_score": 1.9,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 18.034
+        },
+        "YASKY": {
+          "bottleneck_score": 27,
+          "daily_rating_score": 2.7,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 49.38
+        },
+        "HSYDF": {
+          "bottleneck_score": 31,
+          "daily_rating_score": 3.1,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 31.18
+        },
+        "NVDA": {
+          "bottleneck_score": 89,
+          "daily_rating_score": 8.9,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 181.6
+        },
+        "AVGO": {
+          "bottleneck_score": 92,
+          "daily_rating_score": 9.2,
+          "rating": "STRONG BUY",
+          "us_price": 291.53
+        },
+        "MU": {
+          "bottleneck_score": 48,
+          "daily_rating_score": 4.8,
+          "rating": "BEST-IN-CLASS \u00b7 CYCLE / VALUATION WATCH",
+          "us_price": 656.39
+        },
+        "LITE": {
+          "bottleneck_score": 62,
+          "daily_rating_score": 6.2,
+          "rating": "VALUATION WATCH",
+          "us_price": 509.7
+        },
+        "BESIY": {
+          "bottleneck_score": 91,
+          "daily_rating_score": 9.1,
+          "rating": "STRONG BUY",
+          "us_price": 152.82
+        },
+        "ENTG": {
+          "bottleneck_score": 80,
+          "daily_rating_score": 8.0,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 124.75
+        },
+        "VRT": {
+          "bottleneck_score": 77,
+          "daily_rating_score": 7.7,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 176.73
+        },
+        "GEV": {
+          "bottleneck_score": 65,
+          "daily_rating_score": 6.5,
+          "rating": "BEST-IN-CLASS \u00b7 CYCLE / VALUATION WATCH",
+          "us_price": 770.51
+        },
+        "CEG": {
+          "bottleneck_score": 46,
+          "daily_rating_score": 4.6,
+          "rating": "VALUATION WATCH",
+          "us_price": 239.65
+        },
+        "FORM": {
+          "bottleneck_score": 97,
+          "daily_rating_score": 9.7,
+          "rating": "STRONG BUY",
+          "us_price": 71.76
+        },
+        "ALAB": {
+          "bottleneck_score": 88,
+          "daily_rating_score": 8.8,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 179.47
+        },
+        "ANET": {
+          "bottleneck_score": 72,
+          "daily_rating_score": 7.2,
+          "rating": "BEST-IN-CLASS \u00b7 CYCLE / VALUATION WATCH",
+          "us_price": 159.16
+        },
+        "TER": {
+          "bottleneck_score": 67,
+          "daily_rating_score": 6.7,
+          "rating": "VALUATION WATCH",
+          "us_price": 212.74
+        },
+        "GOOG": {
+          "bottleneck_score": 91,
+          "daily_rating_score": 9.1,
+          "rating": "EMPLOYER STOCK \u2014 TRADING WINDOW & PRE-CLEARANCE",
+          "us_price": 281.74
+        },
+        "MPWR": {
+          "bottleneck_score": 78,
+          "daily_rating_score": 7.8,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 1131.43
+        },
+        "ETN": {
+          "bottleneck_score": 42,
+          "daily_rating_score": 4.2,
+          "rating": "BEST-IN-CLASS \u00b7 CYCLE / VALUATION WATCH",
+          "us_price": 327.02
+        },
+        "CAMT": {
+          "bottleneck_score": 69,
+          "daily_rating_score": 6.9,
+          "rating": "VALUATION WATCH",
+          "us_price": 91.92
+        },
+        "RMBS": {
+          "bottleneck_score": 91,
+          "daily_rating_score": 9.1,
+          "rating": "STRONG BUY",
+          "us_price": 69.68
+        },
+        "SIMO": {
+          "bottleneck_score": 53,
+          "daily_rating_score": 5.3,
+          "rating": "VALUATION WATCH",
+          "us_price": 156.27
+        },
+        "SITM": {
+          "bottleneck_score": 63,
+          "daily_rating_score": 6.3,
+          "rating": "VALUATION WATCH",
+          "us_price": 355.0
+        },
+        "LRCX": {
+          "bottleneck_score": 86,
+          "daily_rating_score": 8.6,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 185.2
+        },
+        "SKHY": {
+          "bottleneck_score": 74,
+          "daily_rating_score": 7.4,
+          "rating": "BEST-IN-CLASS \u00b7 CYCLE / VALUATION WATCH",
+          "us_price": 123.9
+        },
+        "PL": {
+          "bottleneck_score": 29,
+          "daily_rating_score": 2.9,
+          "rating": "TRIM / FUNDING SOURCE",
+          "us_price": 11.37
+        },
+        "ARM": {
+          "bottleneck_score": 74,
+          "daily_rating_score": 7.4,
+          "rating": "BEST-IN-CLASS \u00b7 CYCLE / VALUATION WATCH",
+          "us_price": 166.72
+        },
+        "AMAT": {
+          "bottleneck_score": 50,
+          "daily_rating_score": 5.0,
+          "rating": "BEST-IN-CLASS \u00b7 CYCLE / VALUATION WATCH",
+          "us_price": 319.25
+        },
+        "VICR": {
+          "bottleneck_score": 64,
+          "daily_rating_score": 6.4,
+          "rating": "VALUATION WATCH",
+          "us_price": 135.1
+        },
+        "IBIDY": {
+          "bottleneck_score": 86,
+          "daily_rating_score": 8.6,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 9.49
+        },
+        "TSEM": {
+          "bottleneck_score": 85,
+          "daily_rating_score": 8.5,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 130.99
+        },
+        "AXTI": {
+          "bottleneck_score": 87,
+          "daily_rating_score": 8.7,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 36.72
+        },
+        "SLOIY": {
+          "bottleneck_score": 72,
+          "daily_rating_score": 7.2,
+          "rating": "VALUATION WATCH",
+          "us_price": 61.73
+        },
+        "AIIXY": {
+          "bottleneck_score": 84,
+          "daily_rating_score": 8.4,
+          "rating": "CORE HOLD / ACCUMULATE",
+          "us_price": 70.37
+        },
+        "FN": {
+          "bottleneck_score": 65,
+          "daily_rating_score": 6.5,
+          "rating": "VALUATION WATCH",
+          "us_price": 292.97
+        },
+        "ASMVY": {
+          "bottleneck_score": 63,
+          "daily_rating_score": 6.3,
+          "rating": "VALUATION WATCH",
+          "us_price": 37.12
+        }
+      }
+    }
+  }
+}

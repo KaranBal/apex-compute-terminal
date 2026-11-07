@@ -1,0 +1,1535 @@
+{
+  "committee_id": "ic-v51-2026-11-06",
+  "as_of": "2026-11-06",
+  "prices_as_of": "the app's Nov 5 snapshot for holdings; US valuations refreshed Nov 6 intraday (stockanalysis.com)",
+  "title": "Investment Committee v51: Fortress, Power, Robotics, Picks & Shovels",
+  "revision_note": "v51 (Nov 6, 11:12 PT): you asked how to invest the $55K from FANUY/YASKY/HSYDF across FORM, SITM, SIMO, VICR, TSEM, RMBS and ALAB. Averaging the six personas: FORM $23K (6/6), TSEM +$12K (5/6), SITM $12K (6/6, limit orders after today's +16%) and ALAB +$8K (4/6). RMBS is a WATCH (6/6: a real but shared memory-interface toll with a Korean collusion probe; its 91 is a threshold artifact). VICR and SIMO get $0 (6/6). CRDO's add drops back to +$10K.",
+  "disclaimer": "Not financial advice. Public information only. Verdicts come from AI personas, not licensed advisors.",
+  "process_note": "Six AI personas answered your four questions independently on Nov 6 (v48), re-voted your follow-up proposals that morning (v49), voted again on the robotics proceeds after the app's score bug was found (v50), and allocated the $55K across your seven named stocks (v51). Data: Nov 5 close prices for holdings, Nov 6 market caps and forward P/Es, Sep-Nov 2026 headlines. The chair counted votes and broke ties by how relevant each persona's expertise was to the question. Dissents are listed. Committee verdicts sit next to the app's bottleneck scores and never change them; the reconciliation table shows where they disagree and why.",
+  "mandate": [
+    "Outsized long-term returns; short-term volatility is acceptable",
+    "No diworsification: only the highest-conviction names",
+    "US-listed or ADR only (OTC ordinary shares flagged)",
+    "Google ties are not a decision factor (your instruction); public information only",
+    "No selling just to book tax losses; tax-free swaps happen inside the Roths"
+  ],
+  "personas": [
+    {
+      "id": "technologist",
+      "name": "Semiconductor Technologist",
+      "lens": "Chokepoint depth: qualified suppliers, qualification time, demand that scales with AI unit volume"
+    },
+    {
+      "id": "growth",
+      "name": "Multi-Bagger Growth Hunter",
+      "lens": "5-year bull-case math: inflecting growth and contracted demand"
+    },
+    {
+      "id": "valuation",
+      "name": "Valuation Analyst",
+      "lens": "Price vs. durable growth, estimate reliability, downside if estimates fall 25%"
+    },
+    {
+      "id": "redteam",
+      "name": "Red Team / Short-Seller",
+      "lens": "What breaks each thesis: credit, dilution, China, new entrants, hype cycles"
+    },
+    {
+      "id": "power",
+      "name": "Power & Infrastructure",
+      "lens": "Energized MW, lease quality, debt per MW, vertical power delivery"
+    },
+    {
+      "id": "robotics",
+      "name": "Physical-AI / Robotics",
+      "lens": "Where robot profits accrue: brains, magnets, sensors, actuators, robot makers"
+    }
+  ],
+  "followups": [
+    {
+      "id": "f6_55k_seven_names",
+      "asked_at": "Nov 6, 11:02 PT",
+      "proposal": "Selling robotics raises $55K. How should it be invested for the AI bull case across FORM, SITM, SIMO, VICR, TSEM, RMBS and ALAB?",
+      "outcome": "APPROVED",
+      "verdict": "FORM $23K · TSEM +$12K · SITM $12K · ALAB +$8K",
+      "summary": "The chair averaged the six allocations (they sum to exactly $55K). FORM is the one name all six fund at size ($20-25K): consumable probe cards for HBM and AI logic at 19.9x, PEG 0.25, net cash. TSEM adds $12K now (5/6; 42% off its peak, $305M of customer prepayments), taking it to $37K. SITM gets $12K but nobody chases today's +16% upgrade pop: use limit orders ~10% lower, and move unfilled money to FORM by mid-December. ALAB adds $8K after Nov 12 (4/6), taking it to ~$20K. RMBS is a 6/6 WATCH: 80% gross margin and net cash, but #2 of 3 RCD suppliers, ~20% growth, a Korean price-collusion probe, and NVIDIA's Grace/Vera racks use SOCAMM memory with no RCD; its 91 comes from the PEG threshold. VICR and SIMO get $0 (6/6).",
+      "tallies": [
+        {
+          "ticker": "FORM",
+          "tally": "BUY 6/6 ($20-25K)",
+          "action": "BUY",
+          "size_usd": 23000,
+          "note": "$13K now, $10K on a red day or >=5% dip within ~2 weeks"
+        },
+        {
+          "ticker": "TSEM",
+          "tally": "ADD 5/6 ($12-18K)",
+          "action": "ADD",
+          "size_usd": 12000,
+          "note": "Buy now; total $37K with the planned $25K"
+        },
+        {
+          "ticker": "SITM",
+          "tally": "BUY 6/6 ($8-15K)",
+          "action": "BUY",
+          "size_usd": 12000,
+          "note": "Limit orders ~10% below the Nov 6 close; unfilled by mid-Dec -> FORM"
+        },
+        {
+          "ticker": "ALAB",
+          "tally": "ADD 4/6 ($8-20K)",
+          "action": "ADD",
+          "size_usd": 8000,
+          "note": "After Nov 12 with the planned ~$12K (total ~$20K)"
+        },
+        {
+          "ticker": "RMBS",
+          "tally": "WATCH 6/6",
+          "action": "WATCH",
+          "note": "Upgrade on a clean probe outcome, MRDIMM share >=40%, or <=15-16x forward"
+        },
+        {
+          "ticker": "VICR",
+          "tally": "$0 6/6",
+          "action": "AVOID",
+          "note": "Lost NVIDIA sockets to MPS; one-time royalties; insider selling"
+        },
+        {
+          "ticker": "SIMO",
+          "tally": "$0 6/6",
+          "action": "AVOID",
+          "note": "NAND-cycle earnings; FCF -$406M; $1.13B debt"
+        }
+      ],
+      "votes": [
+        {
+          "persona": "Technologist",
+          "vote": "FORM $25K · TSEM $12K · SITM $10K · ALAB $8K",
+          "conviction": 7,
+          "reason": "RMBS share is re-earned every DDR5 speed bin and tracks server DIMMs, not accelerators; kill trigger is SOCAMM2 on a merchant x86 or hyperscaler-Arm CPU."
+        },
+        {
+          "persona": "Growth Hunter",
+          "vote": "FORM $20K · ALAB $20K · SITM $15K",
+          "conviction": 7,
+          "reason": "Blended 5-year bull ~3.1x; RMBS ~2-2.5x vs ~3-3.5x for FORM/ALAB; no extra TSEM (beta 0.9 = less torque)."
+        },
+        {
+          "persona": "Valuation",
+          "vote": "FORM $20K · TSEM $15K · ALAB $12K · SITM $8K",
+          "conviction": 7,
+          "reason": "RMBS is fair value with the cleanest earnings, not a trap, but no multi-bagger torque; SITM ~45x mid-cycle earnings, so buy it ~12% lower."
+        },
+        {
+          "persona": "Red Team",
+          "vote": "FORM $25K · TSEM $12K · ALAB $10K · SITM $8K",
+          "conviction": 7,
+          "reason": "Don't chase a 2.9-beta stock up 16% on one upgrade; wafer-constrained + converts is the classic double-ordering setup."
+        },
+        {
+          "persona": "Power & Infrastructure",
+          "vote": "FORM $25K · TSEM $15K · SITM $15K",
+          "conviction": 7,
+          "reason": "Per-socket bandwidth that scales is HBM (own it via FORM's probe cards); RCD content scales with CPU DIMM slots."
+        },
+        {
+          "persona": "Robotics",
+          "vote": "FORM $22K · TSEM $18K · SITM $15K",
+          "conviction": 7,
+          "reason": "TSEM (sensors, auto power, RF) and SITM (rugged MEMS timing) keep some physical-AI exposure after selling the robotics trio."
+        }
+      ]
+    },
+    {
+      "id": "f4_ai_compute_upside",
+      "asked_at": "Nov 6, 9:57 PT",
+      "proposal": "The app lists VICR at 99 and SIMO at 90, but you buy FORM and SITM. What primes my portfolio for AI-compute upside if I sell FANUY, YASKY and HSYDF?",
+      "outcome": "PARTIAL",
+      "verdict": "Superseded by v51: FORM $23K · TSEM +$12K · SITM $12K · ALAB +$8K",
+      "summary": "VICR 99 and SIMO 90 came from a scoring bug: the score used stale seed inputs while the label used the newer sourced research (fixed in v4.8: VICR 64, SIMO 53, SITM 63, FORM 97). All six agree neither VICR nor SIMO is a buy: VICR's Q3 included ~$37M of one-time royalties and it lost NVIDIA's sockets to MPS; SIMO's 7.7x rests on NAND-cycle earnings with -$406M FCF. FORM is the cleanest buy (19.9x, net cash, PEG 0.25). SITM stays 5-1 despite its 63 because the evidence points to a shortage (organic +154%, wafer-constrained into FY27, ~70% gross margin), sized for a 2023-style bust. The NVDA robot-brain slot tied 3-3; the chair redirected it to CRDO, the most-picked alternative, because a $4.5T stock can't move a multi-bagger book. Update (v51, 11:12 PT): with $55K and a 7-name menu (no CRDO), the robotics money now goes to FORM $23K, TSEM +$12K, SITM $12K and ALAB +$8K; CRDO's add drops back to +$10K.",
+      "tallies": [
+        {
+          "ticker": "FORM",
+          "tally": "BUY 6/6",
+          "action": "BUY",
+          "size_usd": 20000,
+          "note": "Median vote $20K; probe cards for HBM and AI logic"
+        },
+        {
+          "ticker": "SITM",
+          "tally": "KEEP 5-1 (2 tranches)",
+          "action": "BUY",
+          "size_usd": 15000,
+          "note": "$7.5K now; $7.5K after the Feb Q4 report only if in guide at ~70% GM"
+        },
+        {
+          "ticker": "CRDO",
+          "tally": "NVDA slot 3-3 -> CRDO",
+          "action": "ADD",
+          "size_usd": 10000,
+          "note": "16.2x, 32% op margin, $439M FCF; picked by Growth and Valuation"
+        },
+        {
+          "ticker": "NVDA",
+          "tally": "KEEP 3 · REDIRECT 3",
+          "action": "WATCH",
+          "note": "Fortress candidate for new brokerage cash"
+        },
+        {
+          "ticker": "VICR",
+          "tally": "BUY 0/6",
+          "action": "WATCH",
+          "note": "App score was a bug (99 -> 64)"
+        },
+        {
+          "ticker": "SIMO",
+          "tally": "BUY 0/6",
+          "action": "AVOID",
+          "note": "App score was a bug (90 -> 53)"
+        }
+      ],
+      "votes": [
+        {
+          "persona": "Technologist",
+          "vote": "FORM $20K · SITM $12K · LITE $16K",
+          "conviction": 7,
+          "reason": "Redirect NVDA: it can't move a multi-bagger book. SITM is a soft chokepoint (co-packaged optics favor MEMS). LITE was not adopted: it is under an all-stock MRVL acquisition, so buying LITE means buying MRVL."
+        },
+        {
+          "persona": "Growth Hunter",
+          "vote": "SITM $20K · FORM $15K · CRDO $13K",
+          "conviction": 8,
+          "reason": "Blended bull case ~3.2x vs ~2.7x for the v49 mix; NVDA's 5-year bull case is ~2x from $4.5T."
+        },
+        {
+          "persona": "Valuation",
+          "vote": "FORM $18K · CRDO $15K · NVDA $15K",
+          "conviction": 7,
+          "reason": "Cut SITM: least reliable estimates, 37.6x if estimates fall 25%. Buy it back at <=22x or after a clean Feb Q4."
+        },
+        {
+          "persona": "Red Team",
+          "vote": "FORM $20K · SITM $10K · NVDA $10K · ONTO $8K",
+          "conviction": 6,
+          "reason": "Size SITM for a 2023 repeat (revenue -49%, stock ~-80%); NVDA has the weakest bear case."
+        },
+        {
+          "persona": "Power & Infrastructure",
+          "vote": "FORM $23K · SITM $15K · NVDA $10K",
+          "conviction": 6,
+          "reason": "No power-delivery name earns the money: chip-level power is multi-sourced (MPS, Infineon, Renesas, Delta)."
+        },
+        {
+          "persona": "Robotics",
+          "vote": "FORM $20K · SITM $20K · COHR $8K",
+          "conviction": 8,
+          "reason": "Robot silicon is ~1% of NVIDIA revenue; SITM's rugged edge timing is the book's best physical-AI dual capture."
+        }
+      ]
+    },
+    {
+      "id": "f5_cifr_optional",
+      "asked_at": "Nov 6, 9:57 PT",
+      "proposal": "Optional extra move raised by the committee: sell CIFR (Schwab Roth) to fund a bottleneck name",
+      "outcome": "OPTIONAL",
+      "verdict": "SELL CIFR -> ALAB 4-2 (OWNER'S CALL)",
+      "summary": "Four personas would sell CIFR (~$15.8K, tax-free in the Schwab Roth): it scores 23, fixed 10-15-year leases cap the upside, and it carries ~$5.6B of debt against a ~$2.5B market cap. If you act, the chair's pick is ALAB after Nov 12 in the same account (ALAB to ~$30K). Power & Infrastructure dissents: keep CORZ/CIFR as the hedge if power, not chips, becomes the binding constraint, which is your view. This reverses the morning's hold, so it is not in the trade list.",
+      "tallies": [
+        {
+          "ticker": "CIFR",
+          "tally": "SELL 4 · KEEP 1 · OTHER 1",
+          "action": "HOLD",
+          "note": "Not in the trade list unless you choose it"
+        },
+        {
+          "ticker": "ALAB",
+          "tally": "chair's destination",
+          "action": "BUY",
+          "note": "After Nov 12, Schwab Roth"
+        }
+      ],
+      "votes": [
+        {
+          "persona": "Red Team",
+          "vote": "SELL -> FORM",
+          "reason": "Debt-funded landlord: capped upside, uncapped dilution."
+        },
+        {
+          "persona": "Technologist",
+          "vote": "SELL -> ALAB",
+          "reason": "Energized MW are replicable; not a silicon chokepoint."
+        },
+        {
+          "persona": "Robotics",
+          "vote": "SELL -> MPWR",
+          "reason": "Adds the missing power-delivery layer instead."
+        },
+        {
+          "persona": "Valuation",
+          "vote": "SELL -> ONTO",
+          "reason": "No normal earnings; the bull case is paid for with dilution."
+        },
+        {
+          "persona": "Power & Infrastructure",
+          "vote": "KEEP",
+          "reason": "When MW binds, chips stall and MW owners win."
+        },
+        {
+          "persona": "Growth Hunter",
+          "vote": "OTHER",
+          "reason": "Would sell KLAC into ALAB instead."
+        }
+      ]
+    },
+    {
+      "id": "f1_cdns_to_lrcx",
+      "asked_at": "Nov 6, 9:27 PT",
+      "proposal": "Replace Cadence (CDNS) with Lam Research (LRCX) in the brokerage",
+      "outcome": "APPROVED",
+      "verdict": "APPROVED 6-0",
+      "summary": "Sell all of CDNS (~$24K short-term lot, about -$0.8K) and buy ~$24K of LRCX in two tranches. Keep SNPS whole as the single EDA name. EDA is one chokepoint shared by two companies, and its revenue grows with design starts. LRCX grows with AI wafer volume (high-aspect-ratio and cryo etch, HBM through-silicon vias and plating, moly ALD) at 19.7x vs 33x forward. Condition: AMAT stays out, because chip equipment and foundry already dominate the book.",
+      "votes": [
+        {
+          "persona": "Technologist",
+          "vote": "APPROVE",
+          "conviction": 8,
+          "reason": "Owning both EDA names doubles up on one chokepoint. LRCX is best-in-class where AI volume compounds; only TEL and AMAT compete, and tool choices lock in for each process node."
+        },
+        {
+          "persona": "Growth Hunter",
+          "vote": "APPROVE",
+          "conviction": 8,
+          "reason": "PEG 0.60 vs 1.90; the purest lever on the >$200B 2027 equipment step-up. 5-year bull ~2.5x vs ~1.8x."
+        },
+        {
+          "persona": "Valuation",
+          "vote": "APPROVE",
+          "conviction": 7,
+          "reason": "CDNS is the priciest fortress name. Approve only if AMAT stays out: equipment/test is already ~55% of the book."
+        },
+        {
+          "persona": "Power & Infrastructure",
+          "vote": "APPROVE",
+          "conviction": 7,
+          "reason": "Keep the cheaper SNPS (Ansys power/thermal sign-off matters at 2kW). Buy LRCX in two tranches after its +9% day."
+        },
+        {
+          "persona": "Robotics",
+          "vote": "APPROVE",
+          "conviction": 7,
+          "reason": "SNPS/Ansys still collects the robot-chip design and physics-simulation toll, so no physical-AI exposure is lost."
+        },
+        {
+          "persona": "Red Team",
+          "vote": "APPROVE",
+          "conviction": 6,
+          "reason": "The bear case is weak on price, but the brokerage becomes ~80% equipment/foundry, and LRCX is memory- and China-heavy at record margins."
+        }
+      ]
+    },
+    {
+      "id": "f2_robotics_to_form_sitm_vicr",
+      "asked_at": "Nov 6, 9:27 PT",
+      "proposal": "Replace FANUY, YASKY and HSYDF with FORM, SITM and VICR",
+      "outcome": "PARTIAL",
+      "verdict": "IMPROVEMENT 6-0 (FORM + SITM; not VICR)",
+      "summary": "All six call it an improvement over the Japanese trio (FANUY PEG 2.4, YASKY profit falling, HSYDF ~70x in a Chinese reducer price war), and over MP at 70x. FORM (6/6) and SITM (5/6) are bought. VICR got 0 buy votes: Q3 was flattered by ~$37M of one-time royalty catch-up, it lost NVIDIA sockets to MPS, and its moat is a patent case at the US trade commission that likely won't be decided until 2027-28. AMAT is dropped (redundant next to LRCX).",
+      "tallies": [
+        {
+          "ticker": "FORM",
+          "tally": "BUY 6/6",
+          "action": "BUY",
+          "size_usd": 20000,
+          "note": "Probe cards for HBM and AI logic; 19.9x, PEG 0.25, net cash (v50: $20K)"
+        },
+        {
+          "ticker": "SITM",
+          "tally": "BUY 5/6 (2 tranches)",
+          "action": "BUY",
+          "size_usd": 15000,
+          "note": "Organic +154%, ~70% GM, 2-3x timing content in near-package and co-packaged optics; beta 2.9"
+        },
+        {
+          "ticker": "VICR",
+          "tally": "WATCH 5 · AVOID 1",
+          "action": "WATCH",
+          "note": "Buy on recurring royalties of $40-50M/qtr, a trade-commission win or license, or a named vertical-power production win"
+        },
+        {
+          "ticker": "AMAT",
+          "tally": "DROPPED",
+          "action": "WATCH",
+          "note": "Redundant with LRCX; buy only with new cash"
+        }
+      ],
+      "votes": [
+        {
+          "persona": "Technologist",
+          "vote": "YES (FORM + SITM)",
+          "conviction": 6,
+          "reason": "FORM and SITM grow with HBM stacks and optical ports. VICR's chokepoint is shallow: MPS, Infineon, Delta and Renesas are all qualified, and NVIDIA designed Vicor out once."
+        },
+        {
+          "persona": "Growth Hunter",
+          "vote": "YES",
+          "conviction": 7,
+          "reason": "FORM bull ~3x, SITM ~4x (Q4 +12.5% QoQ at ~70% GM, $10B pipeline). VICR's Q3 was flattered by catch-up royalties."
+        },
+        {
+          "persona": "Valuation",
+          "vote": "YES",
+          "conviction": 6,
+          "reason": "Only FORM deserves full size. SITM: wait for <=$330 or a clean Q4 (it fell 49% in 2023 after customers double-ordered). VICR is ~49x normalized earnings, so avoid."
+        },
+        {
+          "persona": "Power & Infrastructure",
+          "vote": "YES",
+          "conviction": 6,
+          "reason": "Vertical power delivery is a real physics chokepoint at 2kW+, but not a Vicor product chokepoint: MPS holds NVIDIA's socket. VICR's moat is a trade-commission bet."
+        },
+        {
+          "persona": "Robotics",
+          "vote": "YES",
+          "conviction": 7,
+          "reason": "Clearly better than the trio, and than MP on quality and price. VICR does not make it."
+        },
+        {
+          "persona": "Red Team",
+          "vote": "YES",
+          "conviction": 6,
+          "reason": "Beats the trio, but it adds more AI-capex exposure, not robotics. FORM is capacity-capped; SITM has beta 2.9 and $1.32B of convertible debt, so size them sensibly."
+        }
+      ]
+    },
+    {
+      "id": "f3_robotics_cut",
+      "asked_at": "Nov 6, 9:27 PT",
+      "proposal": "I'm still big on robotics: does any robotics stock make the cut?",
+      "outcome": "NONE_YET",
+      "verdict": "NO PURE PLAY YET (6-0) · robot slot closed in v50",
+      "summary": "No pure-play robotics stock clears the bar today. Robot bodies (reducers, motors, sensors, lidar) each have 5+ qualified suppliers with China setting the price; AGLT is a pre-revenue de-SPAC; TSLA and SYM are priced on narrative. The committee's way to stay big on robotics: own the robot brain. NVIDIA supplies the training GPUs (Figure committed $3.5B via Nscale for up to 100K Vera Rubin GPUs), the simulation stack (Isaac/Cosmos) and the onboard computer (Jetson Thor), and the book already backs that up with TSM, ASML, LRCX and SNPS. Keep MP and the pure plays on hard entry triggers. Update (v50, 10:17 PT): the NVDA $10K robot-brain slot tied 3-3 on the AI-compute ballot and was redirected to CRDO; robotics names stay on entry triggers.",
+      "tallies": [
+        {
+          "ticker": "NVDA",
+          "tally": "v49 pick; v50 redirected (3-3)",
+          "action": "WATCH",
+          "note": "15x fwd, PEG 0.30; robot brains plus training compute"
+        },
+        {
+          "ticker": "MP",
+          "tally": "2 for · 4 against",
+          "action": "WATCH",
+          "note": "70x; a China-policy trade while the rare-earth truce holds. Add on China re-restrictions after Jan 10, a humanoid magnet contract, or <=45x"
+        },
+        {
+          "ticker": "TER",
+          "tally": "1 vote",
+          "action": "WATCH",
+          "note": "Universal Robots is a free option; overlaps ATEYY"
+        },
+        {
+          "ticker": "AGLT",
+          "tally": "trigger",
+          "action": "WATCH",
+          "note": "After the ~May 3, 2027 lock-up AND paid Digit 5 deliveries, with 18+ months of cash"
+        }
+      ],
+      "votes": [
+        {
+          "persona": "Technologist",
+          "vote": "NVDA $10K",
+          "reason": "Bodies commoditize, the brain doesn't. MP to watch: its chokepoint is geopolitical, not technical; the truce is extended; 70x."
+        },
+        {
+          "persona": "Growth Hunter",
+          "vote": "MP $10K",
+          "reason": "The only robotics-adjacent name with inflection (+176%) and contracted demand (Defense Department floor, GM, Apple); ~3x math."
+        },
+        {
+          "persona": "Valuation",
+          "vote": "NVDA $15K",
+          "reason": "15x fwd, PEG 0.30 with robotics upside for free. No pure play survives a 25% estimate cut."
+        },
+        {
+          "persona": "Power & Infrastructure",
+          "vote": "TER $10K",
+          "reason": "Its AI test business pays you to wait; Universal Robots plus Sereact is a free option."
+        },
+        {
+          "persona": "Robotics",
+          "vote": "MP $10K",
+          "reason": "The only hardware toll that isn't commoditizing (rare-earth magnets made outside China); starter size given 70x."
+        },
+        {
+          "persona": "Red Team",
+          "vote": "NONE",
+          "reason": "Robotics is immaterial at TER/NOVT/RRX/ALGM; TSLA/SYM are priced on narrative; AGLT is ~1,500x sales. Only NVDA has a weak bear case, and that is a compute bet."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1_fortress",
+      "title": "Q1 · Brokerage fortress + top-2 additions under $500B",
+      "owner_question": "Best-in-class, safest AI compute pure plays (SNPS, CDNS, TSM, ASML, Tokyo Electron, Advantest, KLAC). Top 2 additions under $500B: Intel, ARM, AMAT, Lam Research, or something else? (Follow-up: replace Cadence with Lam?)",
+      "answer_headline": "Keep six; swap Cadence for Lam Research (approved 6-0). AMAT remains the #2 name but isn't bought (equipment concentration).",
+      "consensus": "TSM, ASML, ATEYY, KLAC and TELWY are clear keeps: sole or dominant suppliers whose revenue grows with AI wafers, EUV layers and test time. Owning both EDA names doubles up on one chokepoint whose revenue follows design starts, so keep the cheaper SNPS (with Ansys sign-off) and sell CDNS. Lam was the unanimous #1 addition: it dominates high-aspect-ratio and cryo etch, HBM through-silicon-via etch and plating, and moly ALD, at 19.7x forward (PEG 0.6). Applied Materials ranked #2, but buying both would push equipment and foundry to ~80% of the account, so AMAT waits for new cash. Intel and ARM were rejected 6-0.",
+      "verdicts": [
+        {
+          "ticker": "TSM",
+          "action": "KEEP",
+          "conviction": 10,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "Sole source for N2/N3 and CoWoS at 16.8x."
+        },
+        {
+          "ticker": "ASML",
+          "action": "KEEP",
+          "conviction": 8,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "EUV monopoly at ~22x; EUV layer counts rising."
+        },
+        {
+          "ticker": "ATEYY",
+          "action": "KEEP",
+          "conviction": 8,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "Test time grows faster than transistor count (HBM stacks, chiplet known-good-die testing)."
+        },
+        {
+          "ticker": "KLAC",
+          "action": "KEEP",
+          "conviction": 8,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "TRIM",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "~55% of process control; best margins in wafer-fab equipment."
+        },
+        {
+          "ticker": "TELWY",
+          "action": "KEEP",
+          "conviction": 7,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "TRIM",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "~90% of EUV tracks, which ship 1:1 with scanners."
+        },
+        {
+          "ticker": "SNPS",
+          "action": "KEEP",
+          "conviction": 7,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "The single EDA name after the swap: cheaper (25x) and it owns Ansys multiphysics sign-off for 3D-IC and co-packaged optics."
+        },
+        {
+          "ticker": "CDNS",
+          "action": "SELL",
+          "conviction": 7,
+          "votes": {
+            "technologist": "SELL",
+            "growth": "SELL",
+            "valuation": "SELL",
+            "redteam": "SELL",
+            "power": "SELL",
+            "robotics": "SELL"
+          },
+          "rationale": "Swapped for LRCX (approved 6-0): 33x / PEG 1.9, and it duplicates SNPS."
+        }
+      ],
+      "additions": [
+        {
+          "rank": 1,
+          "ticker": "LRCX",
+          "name": "Lam Research",
+          "market_cap_b": 253,
+          "fwd_pe": 19.7,
+          "votes": "6/6",
+          "rationale": "Near sole source in high-aspect-ratio etch; HBM through-silicon-via etch and plating; GAA etch and moly ALD. Record $8.22B quarter; 2027 equipment spending guided above $200B. Buy in two tranches.",
+          "size_usd": 24000,
+          "account": "Brokerage_Family"
+        },
+        {
+          "rank": 2,
+          "ticker": "AMAT",
+          "name": "Applied Materials",
+          "market_cap_b": 253,
+          "fwd_pe": 18.1,
+          "votes": "#2 (not bought)",
+          "rationale": "Metal deposition, epi and CMP leader for GAA and backside power. Held back to avoid ~80% equipment concentration; first use of new cash in the brokerage.",
+          "account": "Brokerage_Family"
+        }
+      ],
+      "rejected": [
+        {
+          "ticker": "INTC",
+          "reason": "Rejected 6-0: a challenger, not a chokepoint; 37.6x trough EPS and $50B of debt."
+        },
+        {
+          "ticker": "ARM",
+          "reason": "Rejected 6-0: 64x forward (PEG 2.1)."
+        },
+        {
+          "ticker": "APH / VRT / TER",
+          "reason": "One vote each as #2; qualified rivals, power gear with many suppliers, or a duplicate of ATEYY."
+        }
+      ],
+      "notes": [
+        "Funding: sell all CDNS (~$24K, about -$0.8K short-term) and buy LRCX in two tranches (~$12K now, ~$12K within ~2 weeks or on a dip). SNPS is no longer trimmed.",
+        "Red Team caution: the brokerage becomes ~80% equipment and foundry, and LRCX is memory- and China-heavy at record margins."
+      ]
+    },
+    {
+      "id": "q2_power",
+      "title": "Q2 · Power & data-center capacity (CIFR, CORZ, NBIS)",
+      "owner_question": "Power is extremely scarce in an AI bull case, CIFR and CORZ have contracted buyers, and 'even if someone goes bankrupt, others will take their place'. Double down on CIFR and CORZ, and own or add to NBIS?",
+      "answer_headline": "Don't double down (6-0). Hold CORZ and NBIS through their prints; hold CIFR with no adds.",
+      "consensus": "Energized MW really is scarce, but the toll protects the building, not the leveraged equity. These are single-tenant leases funded 70-100% with debt. In Chapter 11 a tenant can reject leases, and landlord claims are capped at about a year of rent and unsecured. Re-leasing takes 6-18 months while debt payments continue. Upside needs NEW leases, which Texas politics and Microsoft's neocloud pullback now threaten. 'Under $5B' ignores debt: CIFR's and CORZ's enterprise values are about $7.4B and $7.3B. Keep the sleeve near 10% of the book with no adds.",
+      "verdicts": [
+        {
+          "ticker": "CORZ",
+          "action": "HOLD",
+          "conviction": 5,
+          "votes": {
+            "technologist": "HOLD",
+            "growth": "HOLD",
+            "valuation": "HOLD",
+            "redteam": "HOLD",
+            "power": "HOLD",
+            "robotics": "HOLD"
+          },
+          "rationale": "Best operating landlord (485/590 MW billing, $1B Morgan Stanley facility), but a CoreWeave credit proxy (84% of sales). No adds before CoreWeave reports Nov 10."
+        },
+        {
+          "ticker": "NBIS",
+          "action": "HOLD",
+          "conviction": 5,
+          "votes": {
+            "technologist": "HOLD",
+            "growth": "HOLD",
+            "valuation": "TRIM",
+            "redteam": "HOLD",
+            "power": "HOLD",
+            "robotics": "HOLD"
+          },
+          "rationale": "Least-levered neocloud with pricing power (~20% price hikes). Hold through the Nov 12 print; halve it if Microsoft volumes aren't confirmed."
+        },
+        {
+          "ticker": "CIFR",
+          "action": "HOLD",
+          "conviction": 5,
+          "votes": {
+            "technologist": "HOLD",
+            "growth": "HOLD",
+            "valuation": "SELL",
+            "redteam": "TRIM",
+            "power": "TRIM",
+            "robotics": "HOLD"
+          },
+          "rationale": "Best tenants (AWS plus a Google-backstopped Fluidstack lease) but the thinnest equity cushion and nearly all in Texas. Votes split 3-3 on halving it, so hold with no adds; first to be cut if a kill trigger fires."
+        }
+      ],
+      "rejected": [
+        {
+          "ticker": "CRWV",
+          "reason": "The equity is a call option on $51.6B of debt yielding >15%."
+        },
+        {
+          "ticker": "IREN / APLD / GLXY",
+          "reason": "Texas and/or CoreWeave concentration, Microsoft delays, serial dilution."
+        },
+        {
+          "ticker": "WULF / HUT / RIOT",
+          "reason": "High debt, mostly pipeline value, or tenant-friendly lease terms."
+        }
+      ],
+      "notes": [
+        "Designated swap target: TLN (nuclear power sold to AWS through 2042; 13.4x, PEG 0.33) if CORZ or CIFR kill triggers fire.",
+        "Sleeve cap ~10% of the book."
+      ]
+    },
+    {
+      "id": "q3_robotics",
+      "title": "Q3 · Robotics (FANUY, YASKY, HSYDF)",
+      "owner_question": "VC money and industry stalwarts are all in on physical AI. Are these Japanese picks-and-shovels the Micron/SK Hynix of robotics? (Follow-up: I'm still big on robotics. Does any stock make the cut?)",
+      "answer_headline": "Exit all three; their capital moves to FORM, SITM and CRDO. No pure-play robotics stock makes the cut yet (6-0), and v50 redirected the NVDA robot-brain slot to CRDO (3-3 tie).",
+      "consensus": "The Micron analogy fails. Memory had 3 suppliers, China blocked from HBM, and multi-year fab lead times. Robot parts have the opposite: Leaderdrive, Inovance, Schaeffler, Nidec and Timken are flooding reducers and servos, and capacity can be added in 12-18 months. Robotics VC money today mostly buys compute (Figure: $3.5B for up to 100K Vera Rubin GPUs), which the book already captures through TSM, ASML, LRCX, CRDO, FORM and ONTO. v49 parked $10K in NVDA as the robot brain; on the v50 AI-compute ballot that slot tied 3-3 and went to CRDO, because robot silicon is ~1% of NVIDIA revenue and a $4.5T stock can't move a multi-bagger book. MP stays on the watchlist (70x, a China-policy trade while the rare-earth truce holds). Pure plays come in only on hard evidence.",
+      "verdicts": [
+        {
+          "ticker": "FANUY",
+          "action": "SELL",
+          "conviction": 6,
+          "votes": {
+            "technologist": "SELL",
+            "growth": "SELL",
+            "valuation": "SELL",
+            "redteam": "SELL",
+            "power": "KEEP",
+            "robotics": "SELL"
+          },
+          "rationale": "Best of the three (orders +49%, net cash), but +8% revenue at 25x (PEG 2.4) and no humanoid chokepoint."
+        },
+        {
+          "ticker": "YASKY",
+          "action": "SELL",
+          "conviction": 7,
+          "votes": {
+            "technologist": "SELL",
+            "growth": "SELL",
+            "valuation": "SELL",
+            "redteam": "SELL",
+            "power": "SELL",
+            "robotics": "SELL"
+          },
+          "rationale": "Operating profit falling despite record orders; Inovance is attacking its servos."
+        },
+        {
+          "ticker": "HSYDF",
+          "action": "SELL",
+          "conviction": 7,
+          "votes": {
+            "technologist": "SELL",
+            "growth": "SELL",
+            "valuation": "SELL",
+            "redteam": "SELL",
+            "power": "SELL",
+            "robotics": "SELL"
+          },
+          "rationale": "~70x while strain-wave reducers commoditize. OTC ordinary share: sell with limit orders."
+        }
+      ],
+      "additions": [],
+      "rejected": [
+        {
+          "ticker": "MP",
+          "reason": "Watchlist (2 for, 4 against): 70x forward, a China-policy trade with the truce extended. Add if China re-restricts magnets after Jan 10, a humanoid maker contracts 10X magnet output, or it falls to <=45x."
+        },
+        {
+          "ticker": "AGLT",
+          "reason": "Agility: pre-revenue de-SPAC ($1.8M 2025 revenue). Wait for the ~May 3, 2027 lock-up AND paid Digit 5 deliveries, with 18+ months of cash."
+        },
+        {
+          "ticker": "TSLA / SYM",
+          "reason": "Priced on narrative (161x / 51x)."
+        },
+        {
+          "ticker": "TER / ALGM / NOVT / RRX / OUST",
+          "reason": "Robotics is immaterial to sales today, or the company is loss-making in price-war hardware."
+        },
+        {
+          "ticker": "NVDA",
+          "reason": "v50: robot-brain slot redirected to CRDO (3-3). Best-in-class quality, but ~2x upside from $4.5T; fortress candidate for new brokerage cash."
+        }
+      ],
+      "notes": [
+        "Scale robotics toward 8-10% only as triggers hit: >=1,000 paid humanoids per quarter outside pilots at under 3-year payback; a supplier holding >=35% gross margin through China's price war; Optimus/Figure external deliveries with disclosed pricing; a US-listed supplier designed into 2+ top humanoid makers.",
+        "Dissents (v50): Red Team, Valuation and Power would keep NVDA $10-15K; Robotics wants a robot slot re-opened (NVDA or ALGM) once non-Tesla humanoid deliveries pass 10K a year."
+      ]
+    },
+    {
+      "id": "q4_picks_and_shovels",
+      "title": "Q4 · Small/mid picks-and-shovels list",
+      "owner_question": "DSCSY, ASMIY, LSRCY, VACNY, ONTO, CRDO, NBCLF, MRUWY, COHR: good for riding NVIDIA GPUs and custom ASICs? What to divest, what to buy instead?",
+      "answer_headline": "Strong core. Sell NBCLF and MRUWY, trim VACNY. Buy FORM $23K (6/6), TSEM to $37K, SITM $12K (limit orders) and ALAB to ~$20K after Nov 12; add CRDO +$10K and ONTO.",
+      "consensus": "DSCSY, ASMIY, LSRCY, ONTO, CRDO and COHR are real chokepoints whose demand scales with GPUs and custom ASICs. NBCLF's T-glass price-hike phase is over, and its OTC line trades less than the position in a day. MRUWY has qualified rivals. VACNY is a great franchise at 40x, so halve it into ONTO (16x). The new names are scarce-capacity owners: TSEM (silicon-photonics foundry with $305M customer prepayments), FORM (HBM/AI probe cards, PEG 0.25) and SITM (organic +154%, ~70% GM, 2-3x timing content per optical port; supply-constrained into FY27). ALAB (26x) meets the <=32x trigger after the Nov 12 Nebius print. VICR and SIMO got 0 buy votes; their 99/90 app scores were a bug.",
+      "verdicts": [
+        {
+          "ticker": "DSCSY",
+          "action": "KEEP",
+          "conviction": 8,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "~70%+ of dicing and grinding; every HBM die is thinned on Disco tools."
+        },
+        {
+          "ticker": "ASMIY",
+          "action": "KEEP",
+          "conviction": 7,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "Single-wafer ALD leader."
+        },
+        {
+          "ticker": "CRDO",
+          "action": "ADD",
+          "conviction": 8,
+          "votes": {
+            "technologist": "ADD",
+            "growth": "ADD",
+            "valuation": "ADD",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "Active electrical cable leader; +115% revenue at 15x."
+        },
+        {
+          "ticker": "ONTO",
+          "action": "ADD",
+          "conviction": 7,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "ADD",
+            "valuation": "ADD",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "Packaging-inspection duopoly at 15x; funded by the VACNY trim."
+        },
+        {
+          "ticker": "COHR",
+          "action": "KEEP",
+          "conviction": 7,
+          "votes": {
+            "technologist": "ADD",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "6-inch InP laser capacity pre-sold under a $20B agreement."
+        },
+        {
+          "ticker": "LSRCY",
+          "action": "KEEP",
+          "conviction": 6,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "KEEP",
+            "valuation": "KEEP",
+            "redteam": "KEEP",
+            "power": "KEEP",
+            "robotics": "KEEP"
+          },
+          "rationale": "Monopoly in EUV-wavelength (actinic) mask inspection; no adds at 28x."
+        },
+        {
+          "ticker": "VACNY",
+          "action": "TRIM",
+          "conviction": 6,
+          "votes": {
+            "technologist": "TRIM",
+            "growth": "SELL",
+            "valuation": "TRIM",
+            "redteam": "TRIM",
+            "robotics": "TRIM"
+          },
+          "rationale": "40x and least drawn-down; trim ~$15K into ONTO."
+        },
+        {
+          "ticker": "NBCLF",
+          "action": "SELL",
+          "conviction": 7,
+          "votes": {
+            "technologist": "KEEP",
+            "growth": "SELL",
+            "valuation": "SELL",
+            "redteam": "SELL",
+            "power": "SELL",
+            "robotics": "SELL"
+          },
+          "rationale": "Price-hike phase over; OTC ordinary trading ~$23K/day."
+        },
+        {
+          "ticker": "MRUWY",
+          "action": "SELL",
+          "conviction": 6,
+          "votes": {
+            "technologist": "SELL",
+            "growth": "SELL",
+            "valuation": "SELL",
+            "redteam": "SELL",
+            "power": "SELL",
+            "robotics": "SELL"
+          },
+          "rationale": "Qualified rivals: important, not indispensable."
+        }
+      ],
+      "additions": [
+        {
+          "rank": 1,
+          "ticker": "TSEM",
+          "name": "Tower Semiconductor",
+          "market_cap_b": 15.5,
+          "fwd_pe": 21.6,
+          "votes": "6-0 · 5/6 add",
+          "rationale": "Leading merchant silicon-photonics foundry; $305M prepayments; 42% off its peak; net cash. $25K plan + $12K robotics money.",
+          "size_usd": 37000,
+          "account": "Roth_Fidelity"
+        },
+        {
+          "rank": 2,
+          "ticker": "FORM",
+          "name": "FormFactor",
+          "market_cap_b": 6.2,
+          "fwd_pe": 19.9,
+          "votes": "6/6",
+          "rationale": "Consumable probe cards for HBM and AI logic; Q3 +38%; PEG 0.25; net cash. $13K now, $10K on a red day.",
+          "size_usd": 23000,
+          "account": "Roth_Fidelity"
+        },
+        {
+          "rank": 3,
+          "ticker": "SITM",
+          "name": "SiTime",
+          "market_cap_b": 12.2,
+          "fwd_pe": 28.2,
+          "votes": "6/6 (limit)",
+          "rationale": "Organic +154%; ~70% GM guide; wafer-constrained into FY27. Up 16% on Nov 6: limit orders ~10% lower; unfilled by mid-Dec -> FORM.",
+          "size_usd": 12000,
+          "account": "Roth_Fidelity"
+        },
+        {
+          "rank": 4,
+          "ticker": "ALAB",
+          "name": "Astera Labs",
+          "market_cap_b": 31.6,
+          "fwd_pe": 26.4,
+          "votes": "4/6 add",
+          "rationale": "Scale-up retimers/switches at ~26x; fell on a beat-and-raise. ~$12K plan + $8K robotics money after Nov 12.",
+          "size_usd": 20000,
+          "account": "Roth_Fidelity"
+        }
+      ],
+      "rejected": [
+        {
+          "ticker": "VICR",
+          "reason": "0/6 buy votes (twice): ~$37M of Q3 royalties were one-time catch-up, it lost NVIDIA sockets to MPS, and the trade-commission case resolves ~2027-28. Its 99 app score was a bug (now 64)."
+        },
+        {
+          "ticker": "BESIY",
+          "reason": "Red Team veto (ASML is building a rival hybrid bonder)."
+        },
+        {
+          "ticker": "SIMO",
+          "reason": "0/6: the 7.7x P/E rests on NAND-cycle earnings; Samsung/SK hynix build their own controllers; FCF -$406M. Its 90 app score was a bug (now 53)."
+        },
+        {
+          "ticker": "AXTI / AEHR / FN / IBIDY",
+          "reason": "China export permits, single-customer risk, low margin, or a substrate overbuild."
+        },
+        {
+          "ticker": "LITE",
+          "reason": "Under an all-stock acquisition by MRVL: buying LITE means buying MRVL, not an independent laser chokepoint."
+        },
+        {
+          "ticker": "RMBS",
+          "reason": "WATCH 6/6: real AI-server memory toll (80% GM, net cash) but #2 of 3 RCD suppliers, ~20% growth, a Korean collusion probe, and no RCD in SOCAMM-based NVIDIA racks. Its 91 is a PEG-threshold artifact."
+        }
+      ],
+      "notes": [
+        "Dissents (v51): Growth would put $20K into ALAB and nothing extra into TSEM; Robotics and Power would add nothing to ALAB; Valuation and the Red Team cap SITM at $8K with limit orders 10-12% lower."
+      ]
+    }
+  ],
+  "trades": [
+    {
+      "account": "Brokerage_Family",
+      "ticker": "CDNS",
+      "action": "SELL",
+      "full_exit": true,
+      "rationale": "Swap for LRCX (approved 6-0); SNPS stays as the single EDA name.",
+      "timing": "Now"
+    },
+    {
+      "account": "Brokerage_Family",
+      "ticker": "LRCX",
+      "action": "BUY",
+      "amount_usd": 24000,
+      "us_line": "Nasdaq",
+      "rationale": "Q1 #1 addition (6-0): etch/deposition chokepoint at 19.7x.",
+      "timing": "2 tranches: ~$12K now, ~$12K within ~2 weeks or on a dip"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "NBCLF",
+      "action": "SELL",
+      "full_exit": true,
+      "rationale": "OTC ordinary; T-glass price-hike phase over.",
+      "timing": "Limit orders over 2-3 days"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "MRUWY",
+      "action": "SELL",
+      "full_exit": true,
+      "rationale": "Qualified rivals; not a chokepoint.",
+      "timing": "Now (limit order)"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "FANUY",
+      "action": "SELL",
+      "full_exit": true,
+      "rationale": "Robotics exit; capital to FORM/SITM (6-0 improvement).",
+      "timing": "Now (limit order)"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "YASKY",
+      "action": "SELL",
+      "full_exit": true,
+      "rationale": "Robotics exit (6-0).",
+      "timing": "Now (limit order)"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "HSYDF",
+      "action": "SELL",
+      "full_exit": true,
+      "rationale": "Robotics exit (6-0); ~$81K/day OTC ordinary.",
+      "timing": "Limit orders over 2-3 days"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "TSEM",
+      "action": "BUY",
+      "amount_usd": 37000,
+      "us_line": "Nasdaq",
+      "rationale": "Silicon-photonics foundry with prepaid capacity: $25K plan + $12K robotics money (5/6).",
+      "timing": "Now"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "FORM",
+      "action": "BUY",
+      "amount_usd": 23000,
+      "us_line": "Nasdaq",
+      "rationale": "Robotics proceeds (6/6): HBM/AI probe cards at PEG 0.25, net cash.",
+      "timing": "$13K now; $10K on a red day or a >=5% dip within ~2 weeks"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "SITM",
+      "action": "BUY",
+      "amount_usd": 12000,
+      "us_line": "Nasdaq",
+      "rationale": "MEMS-timing inflection (6/6), bought below the +16% upgrade pop.",
+      "timing": "Limit orders ~10% below the Nov 6 close ($6K + $6K); unfilled by mid-Dec -> FORM"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "CRDO",
+      "action": "ADD",
+      "amount_usd": 10000,
+      "us_line": "Nasdaq",
+      "rationale": "Highest-conviction holding; plan add (v50's extra +$10K moved to TSEM/ALAB because CRDO wasn't on the robotics menu).",
+      "timing": "Now"
+    },
+    {
+      "account": "Roth_Fidelity",
+      "ticker": "ALAB",
+      "action": "BUY",
+      "amount_usd": 20000,
+      "us_line": "Nasdaq",
+      "rationale": "Scale-up retimers/switches at ~26x: ~$12K plan + $8K robotics money (4/6).",
+      "timing": "After Nebius reports (Nov 12): ~$10K first, the rest on dips by early Dec"
+    },
+    {
+      "account": "Roth_Schwab",
+      "ticker": "VACNY",
+      "action": "TRIM",
+      "amount_usd": 15000,
+      "full_exit": false,
+      "rationale": "40x and least drawn-down; rotate into the cheaper chamber-count name.",
+      "timing": "Now (limit order)"
+    },
+    {
+      "account": "Roth_Schwab",
+      "ticker": "ONTO",
+      "action": "ADD",
+      "amount_usd": 15000,
+      "us_line": "NYSE",
+      "rationale": "Packaging-inspection duopoly at 15x.",
+      "timing": "Now"
+    }
+  ],
+  "kill_triggers": [
+    {
+      "ticker": "LRCX",
+      "trigger": "2027 equipment-spending guide cut, memory capex cut >20%, or new China tool controls hitting >10% of revenue"
+    },
+    {
+      "ticker": "TSEM",
+      "trigger": "Q4 revenue < $580M, prepayments stall, or TSMC/GF win Innolight's near-package optics volume"
+    },
+    {
+      "ticker": "FORM",
+      "trigger": "Gross margin falls on rising revenue for 2 quarters, HBM probe revenue down 2 straight quarters, or probe-card growth lags equipment spending"
+    },
+    {
+      "ticker": "SITM",
+      "trigger": "Q1 guide shows a first sequential decline, organic growth < 50%, gross margin guide < 65%, organic q/q < 5%, or a new convertible/equity raise"
+    },
+    {
+      "ticker": "ALAB",
+      "trigger": "Q4 below $730M, or a lost hyperscaler scale-up socket"
+    },
+    {
+      "ticker": "CORZ",
+      "trigger": "CoreWeave defers a coupon or asks for rent concessions; CoreWeave bonds >20% yield; no non-CoreWeave lease by mid-2027"
+    },
+    {
+      "ticker": "CIFR",
+      "trigger": "Equity raise >10% at these prices, AWS site slips >2 quarters, Fluidstack backstop invoked, or Texas rules hit existing interconnects"
+    },
+    {
+      "ticker": "NBIS",
+      "trigger": "Microsoft cuts or reprices its contract, gross margin < 65%, or an equity raise >10%"
+    },
+    {
+      "ticker": "Power sleeve",
+      "trigger": "If neocloud bonds yield >20%, halve the sleeve and rotate into TLN"
+    }
+  ],
+  "calendar": [
+    {
+      "date": "Nov 6-7",
+      "event": "Sell CDNS and buy the first LRCX tranche; execute the Roth swaps in pairs (FORM $13K and TSEM now; SITM limit orders ~10% lower); limit orders on Japanese ADRs and OTC ordinary shares"
+    },
+    {
+      "date": "Nov 10",
+      "event": "CoreWeave Q3: the CORZ kill check"
+    },
+    {
+      "date": "Nov 12",
+      "event": "Nebius Q3: hold or halve NBIS; then start ALAB (~$10K first, total ~$20K by early Dec)"
+    },
+    {
+      "date": "~Nov 20",
+      "event": "LRCX second tranche (~$12K)"
+    },
+    {
+      "date": "Late Nov",
+      "event": "NVIDIA Q3 FY27 results (read-through for the whole book)"
+    },
+    {
+      "date": "Mid-Dec",
+      "event": "Unfilled SITM limit orders expire; move that money to FORM"
+    },
+    {
+      "date": "Jan 2027",
+      "event": "Texas legislature convenes; reported rare-earth truce deadline (Jan 10): the MP watch trigger"
+    },
+    {
+      "date": "Early Feb 2027",
+      "event": "SiTime Q4 report: second SITM tranche ($7.5K) only if in guide at ~70% gross margin with no inventory or receivables build"
+    },
+    {
+      "date": "Late Jan-Feb 2027",
+      "event": "Lam/ASML/TEL/Advantest Q4 orders; TSEM confirms Q4"
+    },
+    {
+      "date": "~May 3, 2027",
+      "event": "Agility Robotics (AGLT) lock-up ends: robotics entry check"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "MP",
+      "trigger": "China re-restricts magnets after Jan 10, a humanoid maker contracts 10X magnet output, or <=45x forward: buy ~$10K"
+    },
+    {
+      "ticker": "VICR",
+      "trigger": "Recurring royalties >=$40-50M/qtr excluding catch-up, a trade-commission win or new license, or a named NVIDIA/hyperscaler vertical-power production win"
+    },
+    {
+      "ticker": "AMAT",
+      "trigger": "First use of new brokerage cash (Q1 #2)"
+    },
+    {
+      "ticker": "AGLT",
+      "trigger": "After the ~May 2027 lock-up, with paid Digit 5 deliveries, 18+ months of cash and EV <= $2B"
+    },
+    {
+      "ticker": "ALGM",
+      "trigger": "A named humanoid-maker design win, or robotics >=5% of sales, at <=20x forward"
+    },
+    {
+      "ticker": "OUST",
+      "trigger": "2 straight quarters of positive adj. EBITDA, with robotics/drones >=25% of revenue"
+    },
+    {
+      "ticker": "SYM / TER",
+      "trigger": "SYM <=30x with a second anchor customer; TER robotics growing >=15% with operating profit"
+    },
+    {
+      "ticker": "TLN",
+      "trigger": "Swap target if CORZ/CIFR kill triggers fire"
+    },
+    {
+      "ticker": "BESIY",
+      "trigger": "Re-enter if no rival hybrid bonder qualifies at TSMC/Hynix by mid-2027"
+    },
+    {
+      "ticker": "NVDA",
+      "trigger": "First candidate for new brokerage cash; re-open a robot slot once non-Tesla humanoid deliveries pass 10K a year"
+    },
+    {
+      "ticker": "RMBS",
+      "trigger": "Clean Korean probe outcome, MRDIMM share >=40% or product growth >25%, or <=15-16x forward"
+    }
+  ],
+  "vetoes": [
+    {
+      "ticker": "INTC",
+      "reason": "Turnaround, not a chokepoint (6-0)"
+    },
+    {
+      "ticker": "ARM",
+      "reason": "64x forward, PEG 2.1 (6-0)"
+    },
+    {
+      "ticker": "CRWV / IREN / APLD / GLXY",
+      "reason": "Levered tenant risk, Texas, CoreWeave concentration"
+    },
+    {
+      "ticker": "SIMO",
+      "reason": "In-house controllers dominate at the big flash makers; NAND cycle; negative FCF"
+    },
+    {
+      "ticker": "AXTI / AEHR / FN / IBIDY",
+      "reason": "China permits, single customer, low margin, substrate overbuild"
+    },
+    {
+      "ticker": "Memory (MU, SKHY)",
+      "reason": "Above the $500B cap, and the DRAM pricing cycle is cooling"
+    },
+    {
+      "ticker": "LITE",
+      "reason": "All-stock MRVL acquisition target: buying LITE means buying MRVL"
+    }
+  ],
+  "dissents": [
+    {
+      "persona": "Growth Hunter",
+      "note": "FORM $20K, ALAB $20K, SITM $15K; no extra TSEM (beta 0.9 = less torque)."
+    },
+    {
+      "persona": "Robotics",
+      "note": "TSEM $18K for its sensor/auto-power edge exposure; no extra ALAB (overlaps CRDO)."
+    },
+    {
+      "persona": "Power & Infrastructure",
+      "note": "FORM $25K, TSEM $15K, SITM $15K; no extra ALAB ($31.6B cap, beta 3.9)."
+    },
+    {
+      "persona": "Technologist",
+      "note": "FORM $25K; SITM only $10K, staged after Nov 11."
+    },
+    {
+      "persona": "Valuation",
+      "note": "SITM only $8K via limit orders ~12% lower (~45x mid-cycle earnings); otherwise FORM."
+    },
+    {
+      "persona": "Red Team",
+      "note": "SITM only $8K via limit orders ~10% lower, moved to FORM if unfilled by Nov 20; watch the AI-capex correlation across the book."
+    }
+  ],
+  "per_ticker": {
+    "TSM": {
+      "action": "KEEP",
+      "conviction": 10,
+      "sleeve": "Fortress",
+      "rationale": "Sole source for N2/N3 + CoWoS at 16.8x (6-0).",
+      "kill_trigger": "Taiwan Strait escalation or Section 232 chip tariffs that impair margins"
+    },
+    "ASML": {
+      "action": "KEEP",
+      "conviction": 8,
+      "sleeve": "Fortress",
+      "rationale": "EUV monopoly at ~22x (6-0).",
+      "kill_trigger": "EUV orders fall YoY for 2 quarters"
+    },
+    "ATEYY": {
+      "action": "KEEP",
+      "conviction": 8,
+      "sleeve": "Fortress",
+      "rationale": "Test time grows faster than transistor count (6-0).",
+      "kill_trigger": "Tester share loss to Teradyne at a top-2 AI-chip customer"
+    },
+    "KLAC": {
+      "action": "KEEP",
+      "conviction": 8,
+      "sleeve": "Fortress",
+      "rationale": "~55% of process control; best equipment margins (5-1).",
+      "kill_trigger": "Process-control intensity falls or China curbs cut >15% of revenue"
+    },
+    "TELWY": {
+      "action": "KEEP",
+      "conviction": 7,
+      "sleeve": "Fortress",
+      "rationale": "~90% of EUV tracks (5-1).",
+      "kill_trigger": "Track share loss to SCREEN, or China mix >45% while controls tighten"
+    },
+    "SNPS": {
+      "action": "KEEP",
+      "conviction": 7,
+      "sleeve": "Fortress",
+      "rationale": "The single EDA name after the CDNS swap: 25x, with Ansys sign-off for 3D-IC and co-packaged optics.",
+      "kill_trigger": "EDA growth <10% for 2 quarters, or China EDA curbs return"
+    },
+    "CDNS": {
+      "action": "SELL",
+      "conviction": 7,
+      "sleeve": "Fortress",
+      "rationale": "Swapped for LRCX (approved 6-0): 33x / PEG 1.9 and it duplicates SNPS.",
+      "kill_trigger": "n/a (exit)"
+    },
+    "DSCSY": {
+      "action": "KEEP",
+      "conviction": 8,
+      "sleeve": "Picks & Shovels",
+      "rationale": "~70%+ of dicing and grinding (6-0).",
+      "kill_trigger": "HBM capex cut >20% or Accretech share gains"
+    },
+    "ASMIY": {
+      "action": "KEEP",
+      "conviction": 7,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Single-wafer ALD leader (6-0).",
+      "kill_trigger": "GAA ALD share loss or China normalization >25% of sales"
+    },
+    "LSRCY": {
+      "action": "KEEP",
+      "conviction": 6,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Actinic mask-inspection monopoly; no adds (6-0).",
+      "kill_trigger": "FY27 orders below ¥350B or a competing actinic tool qualifies"
+    },
+    "VACNY": {
+      "action": "TRIM",
+      "conviction": 6,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Great franchise at 40x; trim ~$15K into ONTO.",
+      "kill_trigger": "Valve share loss or an equipment downturn >15%"
+    },
+    "ONTO": {
+      "action": "ADD",
+      "conviction": 7,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Packaging-inspection duopoly at 15x; +$15K from VACNY.",
+      "kill_trigger": "CoWoS inspection share loss to Camtek or KLA"
+    },
+    "CRDO": {
+      "action": "ADD",
+      "conviction": 8,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Active electrical cable leader at 16x; +$10K plan add (~$45K total).",
+      "kill_trigger": "Cable share loss at a top-2 customer"
+    },
+    "COHR": {
+      "action": "KEEP",
+      "conviction": 7,
+      "sleeve": "Picks & Shovels",
+      "rationale": "6-inch InP capacity pre-sold under a $20B agreement.",
+      "kill_trigger": "Agreement volumes slip or InP yields stall"
+    },
+    "NBCLF": {
+      "action": "SELL",
+      "conviction": 7,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Price-hike phase over; OTC ordinary (5-1).",
+      "kill_trigger": "n/a (exit)"
+    },
+    "MRUWY": {
+      "action": "SELL",
+      "conviction": 6,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Qualified rivals: not a chokepoint (6-0).",
+      "kill_trigger": "n/a (exit)"
+    },
+    "CORZ": {
+      "action": "HOLD",
+      "conviction": 5,
+      "sleeve": "Power & Capacity",
+      "rationale": "Best operating landlord but a CoreWeave credit proxy; hold with no adds, kill check Nov 10. The rubric (56) treats it as a trim: no silicon moat.",
+      "kill_trigger": "CoreWeave defers a coupon or asks for rent concessions; bonds >20%"
+    },
+    "CIFR": {
+      "action": "HOLD",
+      "conviction": 5,
+      "sleeve": "Power & Capacity",
+      "rationale": "Hold, no adds. v50: 4-2 lean to sell into ALAB after Nov 12 (optional, your call; Power dissents as the power-constraint hedge).",
+      "kill_trigger": "Dilution >10%, AWS site slips >2 quarters, Texas rules hit existing loads"
+    },
+    "NBIS": {
+      "action": "HOLD",
+      "conviction": 5,
+      "sleeve": "Power & Capacity",
+      "rationale": "Least-levered neocloud with pricing power; hold through Nov 12, halve if Microsoft volumes aren't confirmed. The rubric (58) treats it as a trim.",
+      "kill_trigger": "Microsoft cut or reprice, gross margin <65%, raise >10%"
+    },
+    "FANUY": {
+      "action": "SELL",
+      "conviction": 6,
+      "sleeve": "Robotics",
+      "rationale": "Industrial-arm compounder at PEG 2.4; capital to FORM/SITM.",
+      "kill_trigger": "n/a (exit)"
+    },
+    "YASKY": {
+      "action": "SELL",
+      "conviction": 7,
+      "sleeve": "Robotics",
+      "rationale": "Operating profit falling despite record orders (6-0).",
+      "kill_trigger": "n/a (exit)"
+    },
+    "HSYDF": {
+      "action": "SELL",
+      "conviction": 7,
+      "sleeve": "Robotics",
+      "rationale": "~70x while reducers commoditize; OTC ordinary (6-0).",
+      "kill_trigger": "n/a (exit)"
+    },
+    "LRCX": {
+      "action": "BUY",
+      "conviction": 8,
+      "sleeve": "Fortress",
+      "rationale": "Replaces CDNS (6-0): etch/deposition chokepoint at 19.7x, PEG 0.60; $24K in two tranches.",
+      "kill_trigger": "2027 equipment guide cut or memory capex cut >20%"
+    },
+    "TSEM": {
+      "action": "BUY",
+      "conviction": 8,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Silicon-photonics foundry, $305M prepayments, 42% off its peak; $37K total ($25K plan + $12K robotics money, 5/6).",
+      "kill_trigger": "Q4 < $580M or Innolight's near-package optics volume moves to TSMC/GF"
+    },
+    "FORM": {
+      "action": "BUY",
+      "conviction": 9,
+      "sleeve": "Picks & Shovels",
+      "rationale": "6/6 at $20-25K: HBM/AI probe cards at PEG 0.25, net cash; $23K ($13K now, $10K on a dip).",
+      "kill_trigger": "Gross margin falls on rising revenue for 2 quarters"
+    },
+    "SITM": {
+      "action": "BUY",
+      "conviction": 7,
+      "sleeve": "Picks & Shovels",
+      "rationale": "6/6 buy at $8-15K: organic +154%, wafer-constrained into FY27. $12K via limit orders ~10% below the Nov 6 (+16%) close; unfilled by mid-Dec -> FORM.",
+      "kill_trigger": "Organic growth <50%, GM guide <65%, organic q/q <5%, or a new convertible/equity raise"
+    },
+    "NVDA": {
+      "action": "WATCH",
+      "conviction": 6,
+      "sleeve": "Fortress",
+      "rationale": "v50: the robot-brain slot tied 3-3 and was redirected to CRDO for upside. Quality is unquestioned (15x, PEG 0.30); first candidate for new brokerage cash.",
+      "kill_trigger": "Re-open a robot slot once non-Tesla humanoid deliveries pass 10K a year"
+    },
+    "ALAB": {
+      "action": "BUY",
+      "conviction": 7,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Scale-up retimers/switches at ~26x after a post-beat sell-off; ~$20K total after Nov 12 (4/6 add).",
+      "kill_trigger": "Q4 < $730M or a lost scale-up socket"
+    },
+    "AMAT": {
+      "action": "WATCH",
+      "conviction": 6,
+      "sleeve": "Fortress",
+      "rationale": "Q1 #2 name, held back to avoid ~80% equipment concentration; first use of new brokerage cash.",
+      "kill_trigger": "Semi-systems orders down YoY for 2 quarters"
+    },
+    "VICR": {
+      "action": "AVOID",
+      "conviction": 4,
+      "sleeve": "Picks & Shovels",
+      "rationale": "$0 (6/6, third ballot): lost NVIDIA sockets to MPS, Q3 padded by ~$37M one-time royalties, ~16.5x EV/sales, insider selling.",
+      "kill_trigger": "Enter only on recurring royalties >=$40-50M/qtr or a named vertical-power production win"
+    },
+    "MP": {
+      "action": "WATCH",
+      "conviction": 5,
+      "sleeve": "Robotics",
+      "rationale": "Magnet toll, but 70x and a China-policy trade while the truce holds (2 for, 4 against).",
+      "kill_trigger": "Enter on China re-restrictions after Jan 10, a humanoid magnet contract, or <=45x"
+    },
+    "BESIY": {
+      "action": "WATCH",
+      "conviction": 5,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Hybrid-bonding incumbent; ASML is building a rival bonder (Red Team veto).",
+      "kill_trigger": "Enter only if no rival bonder qualifies at TSMC/Hynix by mid-2027"
+    },
+    "ARM": {
+      "action": "AVOID",
+      "conviction": 7,
+      "sleeve": "Fortress",
+      "rationale": "64x forward, PEG 2.1; rejected 6-0.",
+      "kill_trigger": "Revisit below ~35x"
+    },
+    "SIMO": {
+      "action": "AVOID",
+      "conviction": 6,
+      "sleeve": "Picks & Shovels",
+      "rationale": "$0 (6/6): ~8x on peak-NAND earnings, FCF -$406M despite record profits, $1.13B debt.",
+      "kill_trigger": "Revisit on a named hyperscaler enterprise-controller win"
+    },
+    "LITE": {
+      "action": "AVOID",
+      "conviction": 6,
+      "sleeve": "Picks & Shovels",
+      "rationale": "Under an all-stock MRVL acquisition: buying LITE means buying MRVL.",
+      "kill_trigger": "Revisit only if the deal breaks"
+    },
+    "RMBS": {
+      "action": "WATCH",
+      "conviction": 7,
+      "sleeve": "Picks & Shovels",
+      "rationale": "6/6 WATCH: AI-server memory-interface toll (80% GM, $757M net cash) but #2 of 3 RCD suppliers, ~20% growth, Korean collusion probe, no RCD in SOCAMM-based NVIDIA racks. Rubric 91 is a PEG-threshold artifact.",
+      "kill_trigger": "Upgrade on a clean probe outcome, MRDIMM share >=40% or product growth >25%, or <=15-16x forward; downgrade if SOCAMM2 reaches a merchant x86 or hyperscaler-Arm CPU"
+    }
+  }
+}
